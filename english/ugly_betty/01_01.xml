@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling">
+  <head>
+    <layout>
+      <region style="defaultSpeaker" xml:id="speaker"></region>
+    </layout>
+    <styling>
+      <style xml:id="defaultSpeaker" tts:fontSize="24px" tts:fontFamily="Arial" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="white" tts:backgroundColor="black" tts:textAlign="center" tts:origin="10% 85%" tts:extent="80% 10%" />
+      <style xml:id="defaultCaption" tts:fontSize="24px" tts:fontFamily="Arial" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="white" tts:backgroundColor="black" tts:textAlign="center" tts:origin="10% 85%" tts:extent="80% 10%" />
+    </styling>
+  </head>
+  <body style="defaultCaption" xml:id="thebody">
+    <div xml:lang="en">
+      <p begin="00:00:01.33" end="00:00:19.00" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="29"/>♪♪♪</p>
+      <p begin="00:00:19.00" end="00:00:21.12" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>I LIKE YOUR PONCHO.</p>
+      <p begin="00:00:21.12" end="00:00:24.54" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>MY DAD GOT ME ONE<br></br>IN GUADALAJARA.</p>
+      <p begin="00:00:24.54" end="00:00:28.96" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="14"/>(scoffs) MILAN.<br></br>DOLCE &amp; GABBANA. FALL.</p>
+      <p begin="00:00:28.96" end="00:00:29.96" region="speaker"><metadata ccrow="0" cccol="6"/>OH.</p>
+      <p begin="00:00:29.96" end="00:00:31.08" region="speaker"><metadata ccrow="0" cccol="9"/>BETTY SUAREZ?</p>
+      <p begin="00:00:31.08" end="00:00:32.42" region="speaker"><metadata ccrow="0" cccol="14"/>HI.</p>
+      <p begin="00:00:32.42" end="00:00:33.88" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>THAT&apos;S ME.</p>
+      <p begin="00:00:33.88" end="00:00:36.33" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>UM, I HAVE A HARD COPY<br></br>OF MY RéSUMé</p>
+      <p begin="00:00:36.33" end="00:00:37.96" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>IF YOU NEED IT.</p>
+      <p begin="00:00:37.96" end="00:00:39.54" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>SHOULD I FOLLOW YOU?</p>
+      <p begin="00:00:39.54" end="00:00:43.46" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="15"/>ACTUALLY...<br></br>THERE&apos;S BEEN A MISTAKE.</p>
+      <p begin="00:00:43.46" end="00:00:45.96" region="speaker"><metadata ccrow="0" cccol="11"/>A MISTAKE?</p>
+      <p begin="00:00:45.96" end="00:00:49.50" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="3"/>ALL THE ENTRY-LEVEL POSITIONS<br></br>WE WERE HIRING FOR...</p>
+      <p begin="00:00:49.50" end="00:00:51.12" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="12"/>THEY&apos;VE BEEN FILLED.</p>
+      <p begin="00:00:51.12" end="00:00:52.79" region="speaker"><metadata ccrow="0" cccol="20"/>I&apos;M SORRY.</p>
+      <p begin="00:00:52.79" end="00:00:54.21" region="speaker"><metadata ccrow="0" cccol="19"/>(chuckles)</p>
+      <p begin="00:00:56.04" end="00:00:58.25" region="speaker"><metadata ccrow="0" cccol="12"/>UM, SIR?</p>
+      <p begin="00:00:58.25" end="00:00:59.96" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="10"/>WHILE YOU GOT ME HERE,</p>
+      <p begin="00:00:59.96" end="00:01:02.33" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="6"/>I THOUGHT I COULD TELL YOU<br></br>A LITTLE ABOUT MYSELF.</p>
+      <p begin="00:01:02.33" end="00:01:04.96" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="7"/>MAGAZINES ARE MY PASSION,<br></br>EVER SINCE I WAS A KID,</p>
+      <p begin="00:01:04.96" end="00:01:07.71" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="13"/>AND I CAN&apos;T IMAGINE<br></br>A MORE AMAZING PLACE</p>
+      <p begin="00:01:07.71" end="00:01:09.71" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="3"/>TO START MY CAREER<br></br>THAN MEADE PUBLICATIONS.</p>
+      <p begin="00:01:09.71" end="00:01:11.71" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>I KNOW MOST OF YOUR MAGAZINES<br></br>INSIDE OUT.</p>
+      <p begin="00:01:11.71" end="00:01:13.71" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="1"/>I TRY TO DEVOUR<br></br>AS MUCH AS I CAN.</p>
+      <p begin="00:01:13.71" end="00:01:15.88" region="speaker"><metadata ccrow="0" cccol="21"/>CLEARLY.</p>
+      <p begin="00:01:15.88" end="00:01:18.12" region="speaker"><metadata ccrow="0" cccol="7"/>ALSO, I&apos;VE LEARNED<br></br>SO MUCH THROUGH THEM.</p>
+      <p begin="00:01:18.12" end="00:01:20.12" region="speaker"><metadata ccrow="0" cccol="11"/>YOU KNOW,<br></br>STUFF SO BEYOND MY WORLD,</p>
+      <p begin="00:01:20.12" end="00:01:22.42" region="speaker"><metadata ccrow="0" cccol="0"/>LIKE--LIKE WHO THE UP-AND-COMERS<br></br>ARE ON THE LONDON ART SCENE,</p>
+      <p begin="00:01:22.42" end="00:01:24.17" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="14"/>OR--OR WHAT<br></br>THE POLITICAL MACHINATIONS</p>
+      <p begin="00:01:24.17" end="00:01:25.33" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="8"/>IN DARFUR ARE ALL ABOUT,</p>
+      <p begin="00:01:25.33" end="00:01:26.92" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="12"/>OR WHICH BALI RESORT<br></br>IS CONSIDERED</p>
+      <p begin="00:01:26.92" end="00:01:28.29" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="15"/>THE MOST ROMANTIC<br></br>IN THE WORLD.</p>
+      <p begin="00:01:28.29" end="00:01:30.29" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="7"/>AND I HAVE TONS OF IDEAS.</p>
+      <p begin="00:01:30.29" end="00:01:32.67" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="11"/>I&apos;M ALWAYS JOTTING<br></br>STUFF DOWN ON THE SUBWAY.</p>
+      <p begin="00:01:32.67" end="00:01:34.25" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="14"/>BUT I&apos;M GETTING<br></br>AHEAD OF MYSELF, SIR.</p>
+      <p begin="00:01:34.25" end="00:01:37.08" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="15"/>ALL I REALLY WANT<br></br>IS A CHANCE...</p>
+      <p begin="00:01:34.25" end="00:01:37.08" region="speaker" tts:textAlign="right"><metadata ccrow="3" cccol="3"/>GOOD-BYE!</p>
+      <p begin="00:01:37.08" end="00:01:41.88" region="speaker"><metadata ccrow="0" cccol="0"/>IN ANY POSITION OR PUBLICATION--<br></br>I CAN TYPE 100 WORDS A MINUTE!</p>
+      <p begin="00:01:45.29" end="00:01:49.21" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="13"/><span tts:fontStyle="italic" >(speaking Spanish)</span></p>
+      <p begin="00:01:51.46" end="00:01:53.83" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="19"/><span tts:fontStyle="italic" >(gasps)  NO!</span></p>
+      <p begin="00:01:53.83" end="00:01:56.54" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="14"/><span tts:fontStyle="italic" >(crying)  NO, NO!</span></p>
+      <p begin="00:02:02.17" end="00:02:03.75" region="speaker"><metadata ccrow="0" cccol="3"/>(boy) I HATE <span tts:fontStyle="italic" >TELENOVELAS.</span></p>
+      <p begin="00:02:03.75" end="00:02:06.21" region="speaker"><metadata ccrow="0" cccol="3"/>I WANNA WATCH FASHION TV.</p>
+      <p begin="00:02:06.21" end="00:02:08.21" region="speaker"><metadata ccrow="0" cccol="5"/>JUSTIN, YOU CAN WATCH<br></br>FASHION TV LATER</p>
+      <p begin="00:02:08.21" end="00:02:10.21" region="speaker"><metadata ccrow="0" cccol="6"/>WHEN YOUR AUNT BETTY<br></br>IS BABYSITTING, OKAY?</p>
+      <p begin="00:02:10.21" end="00:02:11.83" region="speaker"><metadata ccrow="0" cccol="6"/>COME HAVE SOME FLAN.</p>
+      <p begin="00:02:11.83" end="00:02:14.62" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="14"/>I DON&apos;T WANT FLAN.<br></br>I&apos;LL GET FAT.</p>
+      <p begin="00:02:14.62" end="00:02:16.00" region="speaker"><metadata ccrow="0" cccol="6"/>HONEY, YOU&apos;RE A BOY.</p>
+      <p begin="00:02:16.00" end="00:02:18.92" region="speaker"><metadata ccrow="0" cccol="7"/>IT DOESN&apos;T MATTER<br></br>IF YOU&apos;RE FAT OR NOT.</p>
+      <p begin="00:02:18.92" end="00:02:21.79" region="speaker"><metadata ccrow="0" cccol="6"/>BETTY, DID YOU ORDER<br></br>DAD&apos;S BIRTHDAY CAKE?</p>
+      <p begin="00:02:21.79" end="00:02:22.79" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>OF COURSE.</p>
+      <p begin="00:02:22.79" end="00:02:24.12" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>CHOCOLATE VOLCANO,</p>
+      <p begin="00:02:24.12" end="00:02:26.12" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>SAME ONE I GOT LAST YEAR.</p>
+      <p begin="00:02:24.12" end="00:02:26.12" region="speaker" tts:textAlign="left"><metadata ccrow="2" cccol="21"/>MMM.</p>
+      <p begin="00:02:26.12" end="00:02:29.29" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="9"/>SO...<br></br>HOW WAS YOUR INTERVIEW?</p>
+      <p begin="00:02:29.29" end="00:02:32.79" region="speaker"><metadata ccrow="0" cccol="9"/>UM... I THINK<br></br>IT WAS REALLY GOOD.</p>
+      <p begin="00:02:32.79" end="00:02:34.62" region="speaker"><metadata ccrow="0" cccol="12"/>I MEAN,<br></br>THEY WERE IMPRESSED.</p>
+      <p begin="00:02:34.62" end="00:02:36.12" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="14"/>YOU DIDN&apos;T GET IT.</p>
+      <p begin="00:02:36.12" end="00:02:39.83" region="speaker"><metadata ccrow="0" cccol="1"/>WELL, THEY SAID THAT THEY HAD<br></br>HIRED EVERYONE THEY NEEDED.</p>
+      <p begin="00:02:39.83" end="00:02:41.00" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>I DON&apos;T UNDERSTAND...</p>
+      <p begin="00:02:41.00" end="00:02:42.83" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="1"/>YOU&apos;RE SHARP,<br></br>YOU&apos;RE PREPARED.</p>
+      <p begin="00:02:42.83" end="00:02:44.83" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="4"/>SOMEONE SHOULD HAVE<br></br>BEGGED YOU TO WORK FOR THEM</p>
+      <p begin="00:02:44.83" end="00:02:46.83" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>THEY DAY YOU GRADUATED<br></br>QUEENS COLLEGE.</p>
+      <p begin="00:02:46.83" end="00:02:50.00" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="3"/>BETTY, HAVE YOU THOUGHT ABOUT<br></br>EXPLORING OTHER OPTIONS?</p>
+      <p begin="00:02:50.00" end="00:02:52.58" region="speaker"><metadata ccrow="0" cccol="8"/>HILDA, I AM NOT<br></br>GOING TO SELL HerbaLux.</p>
+      <p begin="00:02:52.58" end="00:02:55.12" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="18"/>WELL,<br></br>I WASN&apos;T SAYING THAT...</p>
+      <p begin="00:02:55.12" end="00:02:57.00" region="speaker"><metadata ccrow="0" cccol="17"/>NECESSARILY.</p>
+      <p begin="00:02:57.00" end="00:02:58.33" region="speaker"><metadata ccrow="0" cccol="14"/>DAD.</p>
+      <p begin="00:02:58.33" end="00:03:01.04" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="3"/>THIS CAREER<br></br>IS BETTY&apos;S DREAM.</p>
+      <p begin="00:03:01.04" end="00:03:03.88" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="16"/>OKAY, BUT I HEAR<br></br>SOMEBODY ELSE</p>
+      <p begin="00:03:03.88" end="00:03:05.58" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="17"/>HAS SOME<br></br>PRETTY BIG DREAMS, TOO.</p>
+      <p begin="00:03:05.58" end="00:03:09.00" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="2"/>WHAT ARE YOU TALKING ABOUT?</p>
+      <p begin="00:03:05.58" end="00:03:09.00" region="speaker" tts:textAlign="right"><metadata ccrow="2" cccol="18"/>JUSTIN,<br></br>TELL YOUR AUNT BETTY</p>
+      <p begin="00:03:09.00" end="00:03:11.04" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="10"/>WHAT HER BOYFRIEND<br></br>WAS SAYING THE OTHER NIGHT.</p>
+      <p begin="00:03:11.04" end="00:03:13.04" region="speaker"><metadata ccrow="0" cccol="2"/>WALTER WAS ON HIS CELL PHONE<br></br>TALKING TO SOMEONE,</p>
+      <p begin="00:03:13.04" end="00:03:16.04" region="speaker"><metadata ccrow="0" cccol="10"/>AND HE SAID,<br></br>&quot;SHE&apos;S THE ONE.&quot;</p>
+      <p begin="00:03:16.04" end="00:03:18.17" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>HE WANTS TO MARRY YOU?</p>
+      <p begin="00:03:18.17" end="00:03:20.50" region="speaker"><metadata ccrow="0" cccol="7"/>HE DOES?</p>
+      <p begin="00:03:18.17" end="00:03:20.50" region="speaker"><metadata ccrow="2" cccol="18"/>MM-HMM!</p>
+      <p begin="00:03:20.50" end="00:03:22.29" region="speaker"><metadata ccrow="0" cccol="5"/>WELL, WOULD YOU DO IT?</p>
+      <p begin="00:03:22.29" end="00:03:25.08" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="2"/>WELL, I MEAN--WE HAVEN&apos;T<br></br>TALKED ABOUT THAT YET, BUT--</p>
+      <p begin="00:03:25.08" end="00:03:28.08" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="16"/>WELL, I THINK<br></br>HE&apos;S A CATCH. FLAN?</p>
+      <p begin="00:03:25.08" end="00:03:28.08" region="speaker" tts:textAlign="right"><metadata ccrow="3" cccol="8"/>(knock on door)</p>
+      <p begin="00:03:28.08" end="00:03:29.29" region="speaker"><metadata ccrow="0" cccol="10"/>THAT&apos;S HIM.</p>
+      <p begin="00:03:34.29" end="00:03:36.04" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="13"/>HI, IGNACIO, HILDA.</p>
+      <p begin="00:03:36.04" end="00:03:37.29" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="22"/>HI, BETTY.</p>
+      <p begin="00:03:37.29" end="00:03:38.88" region="speaker"><metadata ccrow="12" cccol="14"/>HEY.</p>
+      <p begin="00:03:37.29" end="00:03:38.88" region="speaker"><metadata ccrow="14" cccol="25"/>HERE.</p>
+      <p begin="00:03:38.88" end="00:03:40.25" region="speaker" tts:textAlign="right"><metadata ccrow="12" cccol="14"/>OH.</p>
+      <p begin="00:03:38.88" end="00:03:40.25" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="18"/>IT&apos;S A RETURN.</p>
+      <p begin="00:03:40.25" end="00:03:43.04" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="10"/>THE MUTE DOESN&apos;T WORK,<br></br>BUT IT SOUNDS AWESOME.</p>
+      <p begin="00:03:43.04" end="00:03:44.67" region="speaker"><metadata ccrow="14" cccol="11"/>THANK YOU.</p>
+      <p begin="00:03:46.92" end="00:03:48.12" region="speaker"><metadata ccrow="14" cccol="8"/>OH.</p>
+      <p begin="00:03:50.00" end="00:03:53.12" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="21"/>UH... AHEM.</p>
+      <p begin="00:03:53.12" end="00:03:54.58" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="13"/>BETTY, CAN WE TALK?</p>
+      <p begin="00:03:54.58" end="00:03:57.50" region="speaker"><metadata ccrow="14" cccol="4"/>YES. SURE.</p>
+      <p begin="00:03:59.21" end="00:04:01.46" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>OH, UM, OUTSIDE.<br></br>YEAH, OKAY.</p>
+      <p begin="00:04:12.08" end="00:04:14.17" region="speaker"><metadata ccrow="13" cccol="7"/><span tts:fontStyle="italic" >CELEBRITY-STUDDED<br></br>FUNERAL SERVICES</span></p>
+      <p begin="00:04:14.17" end="00:04:15.88" region="speaker"><metadata ccrow="13" cccol="8"/><span tts:fontStyle="italic" >WERE HELD TODAY<br></br>FOR FEY SOMMERS,</span></p>
+      <p begin="00:04:15.88" end="00:04:17.08" region="speaker"><metadata ccrow="14" cccol="4"/><span tts:fontStyle="italic" >THE MUCH LOVED AND HATED</span></p>
+      <p begin="00:04:17.08" end="00:04:20.21" region="speaker"><metadata ccrow="0" cccol="8"/><span tts:fontStyle="italic" >EDITOR IN CHIEF<br></br>OF FASHION BIBLE</span></p>
+      <p begin="00:04:20.21" end="00:04:21.75" region="speaker"><metadata ccrow="14" cccol="8"/><span tts:fontStyle="italic" >&quot;MODE&quot; MAGAZINE.</span></p>
+      <p begin="00:04:21.75" end="00:04:24.29" region="speaker"><metadata ccrow="13" cccol="5"/><span tts:fontStyle="italic" >IT WAS THE BITCH SLAP<br></br>HEARD &apos;ROUND THE WORLD</span></p>
+      <p begin="00:04:24.29" end="00:04:26.12" region="speaker"><metadata ccrow="14" cccol="9"/><span tts:fontStyle="italic" >WHEN LONGTIME</span></p>
+      <p begin="00:04:26.12" end="00:04:27.75" region="speaker"><metadata ccrow="13" cccol="4"/><span tts:fontStyle="italic" >&quot;MODE&quot; CREATIVE DIRECTOR<br></br>WILHELMINA SLATER</span></p>
+      <p begin="00:04:27.75" end="00:04:29.42" region="speaker"><metadata ccrow="13" cccol="8"/><span tts:fontStyle="italic" >WAS PASSED OVER<br></br>FOR THE TOP SPOT</span></p>
+      <p begin="00:04:29.42" end="00:04:33.83" region="speaker"><metadata ccrow="13" cccol="3"/><span tts:fontStyle="italic" >IN FAVOR OF DANIEL MEADE,<br></br>THE NOMINALLY EXPERIENCED SON</span></p>
+      <p begin="00:04:33.83" end="00:04:37.17" region="speaker"><metadata ccrow="13" cccol="2"/><span tts:fontStyle="italic" >OF MEADE PUBLICATIONS OWNER<br></br>BRADFORD MEADE.</span></p>
+      <p begin="00:04:37.17" end="00:04:40.04" region="speaker"><metadata ccrow="14" cccol="3"/><span tts:fontStyle="italic" >CAN THE NOTORIOUS MANWHORE</span></p>
+      <p begin="00:04:40.04" end="00:04:42.50" region="speaker"><metadata ccrow="13" cccol="6"/><span tts:fontStyle="italic" >TRANSLATE HIS TALENT<br></br>AT BEDDING WOMEN</span></p>
+      <p begin="00:04:42.50" end="00:04:45.12" region="speaker"><metadata ccrow="14" cccol="6"/><span tts:fontStyle="italic" >INTO DRESSING THEM?</span></p>
+      <p begin="00:05:00.42" end="00:05:03.00" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>HOW DO YOU LIKE<br></br>YOUR NEW OFFICE?</p>
+      <p begin="00:05:03.00" end="00:05:04.38" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="18"/>YOU SCARED ME.</p>
+      <p begin="00:05:04.38" end="00:05:07.08" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="9"/>UM, WOULD YOU JUST, UH,<br></br>GIVE ME A FEW MINUTES?</p>
+      <p begin="00:05:07.08" end="00:05:09.58" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="7"/>THERE&apos;S SOME--SOME THINGS<br></br>I NEED TO WRAP UP</p>
+      <p begin="00:05:09.58" end="00:05:11.17" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="17"/>BEFORE I LEAVE.</p>
+      <p begin="00:05:13.58" end="00:05:16.08" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="3"/>INTERESTING<br></br>DECORATING MOTIF.</p>
+      <p begin="00:05:19.46" end="00:05:22.62" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="14"/>YOU CAN GET UP.<br></br>HE KNOWS YOU&apos;RE THERE.</p>
+      <p begin="00:05:27.54" end="00:05:30.33" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="7"/>I&apos;D LIKE TO INTRODUCE YOU<br></br>TO MY NEW ASSISTANT...</p>
+      <p begin="00:05:30.33" end="00:05:32.04" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="17"/>(clears throat)</p>
+      <p begin="00:05:32.04" end="00:05:33.54" region="speaker"><metadata ccrow="14" cccol="16"/>CHARMAINE.</p>
+      <p begin="00:05:33.54" end="00:05:36.42" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>I&apos;M SORRY TO INTERRUPT<br></br>YOUR... DICTATION,</p>
+      <p begin="00:05:36.42" end="00:05:39.75" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>BUT THIS IS NOT THE WAY<br></br>YOU RUN A MAGAZINE.</p>
+      <p begin="00:05:39.75" end="00:05:41.62" region="speaker"><metadata ccrow="14" cccol="13"/>WHAT?</p>
+      <p begin="00:05:41.62" end="00:05:44.08" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="3"/>I&apos;M IN LOVE<br></br>WITH SOMEONE ELSE.</p>
+      <p begin="00:05:44.08" end="00:05:47.25" region="speaker"><metadata ccrow="14" cccol="13"/>BUT...</p>
+      <p begin="00:05:47.25" end="00:05:48.38" region="speaker"><metadata ccrow="14" cccol="14"/>HOW?</p>
+      <p begin="00:05:48.38" end="00:05:50.17" region="speaker"><metadata ccrow="14" cccol="14"/>I...</p>
+      <p begin="00:05:50.17" end="00:05:52.67" region="speaker"><metadata ccrow="14" cccol="5"/>MEAN, I THOUGHT WE...</p>
+      <p begin="00:05:54.29" end="00:05:56.21" region="speaker"><metadata ccrow="14" cccol="8"/>WELL, WHO IS IT?</p>
+      <p begin="00:06:01.42" end="00:06:03.04" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="18"/>GINA GAMBARRO?</p>
+      <p begin="00:06:03.04" end="00:06:05.54" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>I&apos;M SORRY, I...</p>
+      <p begin="00:06:05.54" end="00:06:06.54" region="speaker"><metadata ccrow="14" cccol="8"/>I...</p>
+      <p begin="00:06:06.54" end="00:06:07.88" region="speaker"><metadata ccrow="14" cccol="24"/>NO.</p>
+      <p begin="00:06:07.88" end="00:06:10.08" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="11"/>YOU DON&apos;T HAVE TO SAY<br></br>ANYTHING ELSE.</p>
+      <p begin="00:06:14.17" end="00:06:16.04" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>GOOD LUCK, BETTY,</p>
+      <p begin="00:06:16.04" end="00:06:17.46" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>WITH EVERYTHING.</p>
+      <p begin="00:06:34.08" end="00:06:35.75" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="17"/>ARE YOU FEELING<br></br>ANY BETTER?</p>
+      <p begin="00:06:35.75" end="00:06:38.12" region="speaker"><metadata ccrow="14" cccol="4"/>I&apos;M FINE.</p>
+      <p begin="00:06:38.12" end="00:06:40.17" region="speaker"><metadata ccrow="14" cccol="7"/>(telephone rings)</p>
+      <p begin="00:06:41.75" end="00:06:43.58" region="speaker"><metadata ccrow="14" cccol="8"/>HELLO?</p>
+      <p begin="00:06:43.58" end="00:06:46.50" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="7"/>SOME GUY<br></br>FROM MEAT PUBLICATIONS.</p>
+      <p begin="00:06:46.50" end="00:06:49.29" region="speaker"><metadata ccrow="14" cccol="13"/>MEADE?</p>
+      <p begin="00:06:49.29" end="00:06:51.38" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="11"/>THIS IS BETTY SUAREZ.</p>
+      <p begin="00:06:51.38" end="00:06:53.79" region="speaker"><metadata ccrow="14" cccol="22"/>MM-HMM.</p>
+      <p begin="00:06:53.79" end="00:06:56.21" region="speaker"><metadata ccrow="14" cccol="8"/>ARE YOU SERIOUS?</p>
+      <p begin="00:06:56.21" end="00:07:00.08" region="speaker"><metadata ccrow="13" cccol="4"/>YEAH! I--YEAH, OF COURSE<br></br>I-I CAN START TOMORROW.</p>
+      <p begin="00:07:00.08" end="00:07:03.08" region="speaker"><metadata ccrow="13" cccol="7"/>UM, WHAT MAGAZINE<br></br>IS THIS FOR? &quot;MODE&quot;?</p>
+      <p begin="00:07:03.08" end="00:07:04.50" region="speaker"><metadata ccrow="14" cccol="9"/>(mouths word)</p>
+      <p begin="00:07:06.54" end="00:07:09.33" region="speaker"><metadata ccrow="13" cccol="6"/>YEAH, I&apos;LL BE THERE<br></br>FIRST THING IN THE MORNING.</p>
+      <p begin="00:07:09.33" end="00:07:10.42" region="speaker"><metadata ccrow="14" cccol="13"/>OKAY!</p>
+      <p begin="00:07:10.42" end="00:07:12.33" region="speaker"><metadata ccrow="14" cccol="8"/>THANK YOU. BYE!</p>
+      <p begin="00:07:14.12" end="00:07:16.71" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="16"/>ASSISTANT<br></br>TO THE EDITOR IN CHIEF!</p>
+      <p begin="00:07:16.71" end="00:07:19.38" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="8"/>I DIDN&apos;T KNOW<br></br>YOU WANTED TO WORK FOR &quot;MODE.&quot;</p>
+      <p begin="00:07:19.38" end="00:07:22.21" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="3"/>WELL, THIS WOULDN&apos;T HAVE BEEN<br></br>MY FIRST CHOICE, BUT...</p>
+      <p begin="00:07:22.21" end="00:07:26.00" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="5"/>IF I DO GOOD HERE, I CAN GO<br></br>ANYWHERE IN THE COMPANY.</p>
+      <p begin="00:07:26.00" end="00:07:29.96" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="4"/>WELL, JUST TRY<br></br>AND DRESS FASHIONABLY.</p>
+      <p begin="00:07:29.96" end="00:07:31.33" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>DO HAVE ANYTHING?</p>
+      <p begin="00:07:33.21" end="00:07:34.92" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="17"/>ACTUALLY, I DO.</p>
+      <p begin="00:07:42.17" end="00:07:45.04" region="speaker"><metadata ccrow="14" cccol="10"/><span tts:fontStyle="italic" >OH, MY GOD.</span></p>
+      <p begin="00:07:45.04" end="00:07:53.00" region="speaker"><metadata ccrow="0" cccol="0"/></p>
+      <p begin="00:07:53.00" end="00:07:54.33" region="speaker"><metadata ccrow="0" cccol="0"/></p>
+      <p begin="00:07:54.33" end="00:07:57.50" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="11"/>HI. YOU THE &quot;BEFORE&quot;?</p>
+      <p begin="00:07:54.33" end="00:07:57.50" region="speaker" tts:textAlign="right"><metadata ccrow="2" cccol="14"/>HUH?</p>
+      <p begin="00:07:57.50" end="00:08:01.21" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="14"/>BEFORE AND AFTER--<br></br>THE PHOTO SHOOT.</p>
+      <p begin="00:08:01.21" end="00:08:04.50" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="14"/>(slowly) ARE YOU<br></br>DELIVERING SOMETHING?</p>
+      <p begin="00:08:04.50" end="00:08:06.33" region="speaker"><metadata ccrow="0" cccol="5"/>OH, NO! (chuckles) NO.</p>
+      <p begin="00:08:06.33" end="00:08:08.79" region="speaker"><metadata ccrow="0" cccol="9"/>I-I WORK HERE.</p>
+      <p begin="00:08:08.79" end="00:08:10.42" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="17"/>(chuckles) FOR?</p>
+      <p begin="00:08:10.42" end="00:08:13.29" region="speaker"><metadata ccrow="0" cccol="2"/>FOR THE NEW EDITOR IN CHIEF.<br></br>(chuckles)</p>
+      <p begin="00:08:15.08" end="00:08:17.38" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="5"/>SO EVERYONE&apos;S<br></br>IN THE CONFERENCE ROOM,</p>
+      <p begin="00:08:17.38" end="00:08:20.00" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>AND DANIEL&apos;S ABOUT TO START<br></br>HIS FIRST STAFF MEETING.</p>
+      <p begin="00:08:20.00" end="00:08:22.00" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>I&apos;M AMANDA, BY THE WAY.</p>
+      <p begin="00:08:20.00" end="00:08:22.00" region="speaker" tts:textAlign="left"><metadata ccrow="2" cccol="23"/>BETTY.</p>
+      <p begin="00:08:22.00" end="00:08:23.38" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="12"/>OKAY, F.Y.I., <span tts:fontStyle="italic" >BETSY,</span></p>
+      <p begin="00:08:23.38" end="00:08:25.38" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="5"/>ASSISTANTS ARE USUALLY HERE<br></br>BEFORE THEIR BOSSES.</p>
+      <p begin="00:08:25.38" end="00:08:28.08" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>OH, WELL, I WAS FILLING OUT<br></br>PAPERWORK IN H.R.</p>
+      <p begin="00:08:28.08" end="00:08:30.08" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="14"/>YEAH, JUST DON&apos;T<br></br>LET IT HAPPEN AGAIN.</p>
+      <p begin="00:08:30.08" end="00:08:32.42" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="12"/>SO, UH, WHERE DO YOU<br></br>COME FROM?</p>
+      <p begin="00:08:32.42" end="00:08:33.88" region="speaker"><metadata ccrow="0" cccol="4"/>QUEENS.</p>
+      <p begin="00:08:33.88" end="00:08:35.46" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="10"/>WHAT JOB DID YOU HAVE?</p>
+      <p begin="00:08:35.46" end="00:08:38.21" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="4"/>OH, ACTUALLY,<br></br>APART FROM INTERNSHIPS</p>
+      <p begin="00:08:38.21" end="00:08:40.21" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>AND PART-TIME JOBS<br></br>TO PAY FOR SCHOOL,</p>
+      <p begin="00:08:40.21" end="00:08:42.21" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>THIS IS MY FIRST REAL JOB.</p>
+      <p begin="00:08:42.21" end="00:08:44.04" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="10"/>(laughs) THAT&apos;S FUNNY.</p>
+      <p begin="00:08:44.04" end="00:08:47.12" region="speaker"><metadata ccrow="0" cccol="1"/>I WAS TOLD I DIDN&apos;T HAVE ENOUGH<br></br>EXPERIENCE FOR THE POSITION.</p>
+      <p begin="00:08:47.12" end="00:08:48.96" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="16"/>IT&apos;S OVER THERE.</p>
+      <p begin="00:08:51.04" end="00:08:53.71" region="speaker"><metadata ccrow="0" cccol="5"/>YOU ARE AN ATTRACTIVE,<br></br>INTELLIGENT,</p>
+      <p begin="00:08:53.71" end="00:08:56.71" region="speaker"><metadata ccrow="0" cccol="4"/>CONFIDENT BUSINESSWOMAN.</p>
+      <p begin="00:08:56.71" end="00:08:59.21" region="speaker"><metadata ccrow="0" cccol="0"/>SO I GOTTA CONFESS--I&apos;M PROBABLY<br></br>NOT GONNA REMEMBER</p>
+      <p begin="00:08:59.21" end="00:09:01.21" region="speaker"><metadata ccrow="0" cccol="7"/>EVERYONE&apos;S NAMES,<br></br>AND I&apos;M REALLY, UH...</p>
+      <p begin="00:09:04.29" end="00:09:05.92" region="speaker"><metadata ccrow="0" cccol="7"/>(man) WHAT&apos;S THAT?</p>
+      <p begin="00:09:05.92" end="00:09:07.33" region="speaker"><metadata ccrow="0" cccol="11"/>(laughter)</p>
+      <p begin="00:09:07.33" end="00:09:09.33" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="19"/>ARE YOU OKAY?</p>
+      <p begin="00:09:09.33" end="00:09:11.67" region="speaker"><metadata ccrow="0" cccol="6"/>I&apos;M OKAY. I&apos;M FINE.<br></br>I&apos;M SO SORRY.</p>
+      <p begin="00:09:11.67" end="00:09:14.29" region="speaker"><metadata ccrow="0" cccol="8"/>I&apos;M--I&apos;M SORRY.</p>
+      <p begin="00:09:14.29" end="00:09:17.33" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="3"/>ANYWAY, UH,<br></br>I WISH I WASN&apos;T--</p>
+      <p begin="00:09:17.33" end="00:09:18.92" region="speaker"><metadata ccrow="0" cccol="9"/>I&apos;M SO SORRY.<br></br>CAN I JUST GET IN HERE?</p>
+      <p begin="00:09:18.92" end="00:09:22.04" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="1"/>UH, I WISH I WASN&apos;T<br></br>COMING IN AS A NEW GUY</p>
+      <p begin="00:09:22.04" end="00:09:24.08" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="6"/>UNDER SUCH<br></br>TERRIBLE CIRCUMSTANCES.</p>
+      <p begin="00:09:24.08" end="00:09:26.54" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="7"/>I REALIZE<br></br>I HAVE SOME AWFUL BIG...</p>
+      <p begin="00:09:26.54" end="00:09:29.17" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>TEETH--SHOES TO FILL,</p>
+      <p begin="00:09:29.17" end="00:09:32.00" region="speaker"><metadata ccrow="0" cccol="0"/>BUT I CAN&apos;T TELL YOU HOW EXCITED<br></br>I AM TO BE WORKING WITH</p>
+      <p begin="00:09:32.00" end="00:09:35.54" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="6"/>SUCH AN AMAZINGLY<br></br>TALENTED AND DEDICATED STAFF.</p>
+      <p begin="00:09:35.54" end="00:09:37.54" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="3"/>NOW I&apos;D LIKE<br></br>TO TAKE THE MOMENT</p>
+      <p begin="00:09:37.54" end="00:09:41.08" region="speaker"><metadata ccrow="0" cccol="0"/>TO TALK A LITTLE ABOUT<br></br>SOME OF THE IDEAS--</p>
+      <p begin="00:09:37.54" end="00:09:41.08" region="speaker"><metadata ccrow="3" cccol="14"/>SO SORRY I&apos;M LATE.</p>
+      <p begin="00:09:41.08" end="00:09:42.67" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="7"/>OH, YOU BEGAN WITHOUT ME.</p>
+      <p begin="00:09:42.67" end="00:09:45.08" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>SORRY, WILHELMINA,<br></br>I WAITED--</p>
+      <p begin="00:09:42.67" end="00:09:45.08" region="speaker" tts:textAlign="left"><metadata ccrow="3" cccol="24"/>SHH!</p>
+      <p begin="00:09:45.08" end="00:09:47.17" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="19"/>MARC... GIFT.</p>
+      <p begin="00:09:50.08" end="00:09:51.29" region="speaker"><metadata ccrow="0" cccol="4"/>THANK YOU.</p>
+      <p begin="00:09:51.29" end="00:09:53.54" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>AS I WAS SAYING,<br></br>I REALLY WANNA--</p>
+      <p begin="00:09:53.54" end="00:09:55.96" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="10"/>WELL, AREN&apos;T YOU GONNA<br></br>OPEN IT?</p>
+      <p begin="00:10:00.33" end="00:10:02.67" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="14"/>SWAROVSKI CRYSTAL,</p>
+      <p begin="00:10:02.67" end="00:10:05.00" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="18"/>TO COMMEMORATE<br></br>YOUR FIRST DAY.</p>
+      <p begin="00:10:05.00" end="00:10:06.50" region="speaker"><metadata ccrow="0" cccol="4"/>THANK YOU.</p>
+      <p begin="00:10:06.50" end="00:10:09.04" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>BUT IT IS &quot;DANIEL,&quot;<br></br>NOT &quot;DANNY.&quot;</p>
+      <p begin="00:10:09.04" end="00:10:10.46" region="speaker"><metadata ccrow="0" cccol="24"/>WHAT?</p>
+      <p begin="00:10:10.46" end="00:10:12.25" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="9"/>I&apos;M HELLACIOUSLY UPSET,<br></br>MARC.</p>
+      <p begin="00:10:12.25" end="00:10:13.75" region="speaker"><metadata ccrow="0" cccol="13"/>OH, MY GOD,<br></br>I AM SO SORRY.</p>
+      <p begin="00:10:13.75" end="00:10:15.50" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="15"/>SHH! PURGE THIS<br></br>FROM MEMORY, PLEASE.</p>
+      <p begin="00:10:15.50" end="00:10:17.12" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>AS I WAS SAYING,</p>
+      <p begin="00:10:17.12" end="00:10:19.12" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="5"/>IT&apos;S A PARTICULARLY<br></br>EXCITING TIME FOR ME BECAUSE--</p>
+      <p begin="00:10:19.12" end="00:10:22.33" region="speaker"><metadata ccrow="0" cccol="4"/>I THINK WE NEED TO DISCUSS<br></br>THE FABIA COSMETICS SUPPLEMENT.</p>
+      <p begin="00:10:22.33" end="00:10:24.04" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>FABIA COSMETICS?</p>
+      <p begin="00:10:24.04" end="00:10:26.33" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="14"/>THE BIGGEST AD BUY<br></br>OF THE YEAR,</p>
+      <p begin="00:10:26.33" end="00:10:28.50" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="8"/>AND THE ONLY PAID LAYOUT<br></br>EDITORIAL EVER WORKS ON.</p>
+      <p begin="00:10:28.50" end="00:10:31.67" region="speaker"><metadata ccrow="0" cccol="1"/>WELL, I&apos;M SURE FABIA WILL LOVE<br></br>WHATEVER WE COME UP WITH, RIGHT?</p>
+      <p begin="00:10:31.67" end="00:10:33.42" region="speaker"><metadata ccrow="0" cccol="12"/>DANIEL,<br></br>YOU--YOU DON&apos;T UNDERSTAND.</p>
+      <p begin="00:10:33.42" end="00:10:35.33" region="speaker"><metadata ccrow="0" cccol="13"/>GIVEN<br></br>THE NEW CIRCUMSTANCES,</p>
+      <p begin="00:10:35.33" end="00:10:37.33" region="speaker"><metadata ccrow="0" cccol="4"/>FABIA NEEDS TO SIGN OFF<br></br>ON THE SPREAD</p>
+      <p begin="00:10:37.33" end="00:10:39.04" region="speaker"><metadata ccrow="0" cccol="5"/><span tts:fontStyle="italic" >BEFORE </span>WE GO TO PRINT.</p>
+      <p begin="00:10:39.04" end="00:10:42.50" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="7"/>OBVIOUSLY, WE&apos;RE ALL HERE<br></br>TO HELP YOU SUCCEED,</p>
+      <p begin="00:10:42.50" end="00:10:45.17" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="18"/>AND WE&apos;VE GOT<br></br>PLENTY OF IDEAS.</p>
+      <p begin="00:10:45.17" end="00:10:48.04" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="10"/>SO I THINK WE ALL NEED<br></br>TO GET BACK TO WORK</p>
+      <p begin="00:10:48.04" end="00:10:49.67" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="8"/>TO MAKE SURE THAT THIS--</p>
+      <p begin="00:10:49.67" end="00:10:52.00" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="6"/>YOUR VERY FIRST ISSUE WITH<br></br>YOUR NAME ON THE MASTHEAD--</p>
+      <p begin="00:10:52.00" end="00:10:53.17" region="speaker"><metadata ccrow="0" cccol="17"/>SPARKLES.</p>
+      <p begin="00:10:53.17" end="00:10:55.79" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="14"/>OKAY, EVERYONE,<br></br>LET&apos;S NOT DILLYDALLY.</p>
+      <p begin="00:10:55.79" end="00:10:58.79" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="12"/>OUR EDITOR NEEDS US.</p>
+      <p begin="00:10:58.79" end="00:11:00.33" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="18"/>KILLER PONCHO.</p>
+      <p begin="00:11:00.33" end="00:11:01.33" region="speaker"><metadata ccrow="0" cccol="12"/>THANKS!</p>
+      <p begin="00:11:09.38" end="00:11:12.79" region="speaker"><metadata ccrow="0" cccol="19"/>MR. MEADE?</p>
+      <p begin="00:11:12.79" end="00:11:15.17" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="7"/>EXCUSE ME, UM, MR. MEADE?</p>
+      <p begin="00:11:15.17" end="00:11:16.29" region="speaker"><metadata ccrow="0" cccol="22"/>HI.</p>
+      <p begin="00:11:16.29" end="00:11:19.29" region="speaker"><metadata ccrow="0" cccol="4"/>UM, I JUST WANTED TO COME<br></br>AND INTRODUCE MYSELF PERSONALLY.</p>
+      <p begin="00:11:19.29" end="00:11:22.54" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="9"/>I&apos;M BETTY SUAREZ.<br></br>IT&apos;S A-A PLEASURE TO MEET YOU.</p>
+      <p begin="00:11:22.54" end="00:11:25.67" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>HI, BETTY. UM, UM...</p>
+      <p begin="00:11:25.67" end="00:11:27.46" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>WHO DO YOU WORK FOR?</p>
+      <p begin="00:11:27.46" end="00:11:29.96" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="7"/>WELL, UM, I WORK FOR YOU.</p>
+      <p begin="00:11:29.96" end="00:11:31.54" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="9"/>I&apos;M YOUR NEW ASSISTANT.</p>
+      <p begin="00:11:33.12" end="00:11:36.12" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>DID YOU GET THE CREASE<br></br>UNDER THE HAIRLINE?</p>
+      <p begin="00:11:36.12" end="00:11:37.46" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="20"/>YES, WILLIE.</p>
+      <p begin="00:11:37.46" end="00:11:39.17" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>(sighs) 20 YEARS, MARC.</p>
+      <p begin="00:11:39.17" end="00:11:42.12" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>NO ONE HAS DONE MORE,<br></br>WORKED HARDER...</p>
+      <p begin="00:11:42.12" end="00:11:44.42" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="3"/>I HAVE BLED<br></br>FOR THIS MAGAZINE,</p>
+      <p begin="00:11:44.42" end="00:11:46.21" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="6"/>HELPED MAKE IT<br></br>INTO THE ICON IT IS TODAY,</p>
+      <p begin="00:11:46.21" end="00:11:49.75" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="5"/>AND THAT NASTY,<br></br>NEPOTISTIC SON OF A BITCH</p>
+      <p begin="00:11:49.75" end="00:11:51.12" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>GIVES <span tts:fontStyle="italic" >MY </span>JOB TO HIS...</p>
+      <p begin="00:11:51.12" end="00:11:52.58" region="speaker"><metadata ccrow="0" cccol="21"/>HIS SON.</p>
+      <p begin="00:11:52.58" end="00:11:55.25" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>WHO&apos;S A SELF-ABSORBED,<br></br>LOTHARIO PUNK</p>
+      <p begin="00:11:55.25" end="00:11:58.00" region="speaker" tts:textAlign="left"><metadata ccrow="0" cccol="0"/>WHO KNOWS NOTHING<br></br>ABOUT FASHION!</p>
+      <p begin="00:11:58.00" end="00:11:59.04" region="speaker"><metadata ccrow="14" cccol="4"/>(sighs)</p>
+      <p begin="00:11:59.04" end="00:12:00.67" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>TELL ME THE TRUTH--</p>
+      <p begin="00:12:00.67" end="00:12:03.08" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="1"/>IS IT BECAUSE<br></br>I&apos;M GETTING OLD?</p>
+      <p begin="00:12:03.08" end="00:12:06.00" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="12"/>ABSOLUTELY NOT. UGH!</p>
+      <p begin="00:12:06.00" end="00:12:08.04" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="13"/>THOUGH YOU COULD DO<br></br>WITH A TAD BIT MORE</p>
+      <p begin="00:12:08.04" end="00:12:10.04" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="14"/>BETWEEN THE BROWS.</p>
+      <p begin="00:12:10.04" end="00:12:11.75" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="7"/>SO WHAT ARE YOU GONNA DO?</p>
+      <p begin="00:12:11.75" end="00:12:13.67" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>JUST WAIT AND SEE.</p>
+      <p begin="00:12:13.67" end="00:12:16.12" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="5"/>WELL, HE&apos;S WELL ON HIS WAY<br></br>TO FALLING FLAT ON HIS FACE.</p>
+      <p begin="00:12:16.12" end="00:12:18.83" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="9"/>I MEAN, CAN YOU BELIEVE<br></br>THAT ASSISTANT?</p>
+      <p begin="00:12:18.83" end="00:12:22.08" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="17"/>THIS IS &quot;MODE,&quot;<br></br>NOT &quot;DOG FANCY.&quot;</p>
+      <p begin="00:12:22.08" end="00:12:24.08" region="speaker"><metadata ccrow="14" cccol="24"/>DONE.</p>
+      <p begin="00:12:26.12" end="00:12:29.62" region="speaker"><metadata ccrow="13" cccol="6"/>WHAT DO YOU WANT ME<br></br>TO DO WITH THE, UH... LEFTOVER?</p>
+      <p begin="00:12:29.62" end="00:12:31.00" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="22"/>ALL YOURS.</p>
+      <p begin="00:12:31.00" end="00:12:32.00" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>(mouths words)</p>
+      <p begin="00:12:32.00" end="00:12:33.62" region="speaker"><metadata ccrow="14" cccol="7"/>(cell phone rings)</p>
+      <p begin="00:12:33.62" end="00:12:35.04" region="speaker"><metadata ccrow="14" cccol="13"/>(ring)</p>
+      <p begin="00:12:35.04" end="00:12:36.00" region="speaker"><metadata ccrow="13" cccol="13"/>(ring)</p>
+      <p begin="00:12:36.00" end="00:12:37.71" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="9"/>GIVE ME A MOMENT, MARC.</p>
+      <p begin="00:12:37.71" end="00:12:39.96" region="speaker"><metadata ccrow="14" cccol="13"/>(ring)</p>
+      <p begin="00:12:39.96" end="00:12:42.00" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="9"/>HOW ARE YOU RECOVERING,<br></br>DARLING?</p>
+      <p begin="00:12:42.00" end="00:12:45.04" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="16"/>WELL, I&apos;M SURE<br></br>YOU&apos;LL FEEL BETTER</p>
+      <p begin="00:12:45.04" end="00:12:49.96" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="7"/>ONCE, UH, EVERYTHING HERE<br></br>STARTS COMING TO A BOIL.</p>
+      <p begin="00:12:49.96" end="00:12:52.12" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="16"/>MM-HMM. (laughs)</p>
+      <p begin="00:12:59.00" end="00:13:00.29" region="speaker"><metadata ccrow="14" cccol="22"/>HERE.</p>
+      <p begin="00:13:00.29" end="00:13:01.92" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>OH, THANK YOU.</p>
+      <p begin="00:13:01.92" end="00:13:03.29" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="13"/>WHAT ARE YOU DOING?</p>
+      <p begin="00:13:03.29" end="00:13:06.21" region="speaker"><metadata ccrow="13" cccol="5"/>UM, I&apos;M JUST GATHERING<br></br>INFORMATION ON FABIA FOR DANIEL.</p>
+      <p begin="00:13:06.21" end="00:13:09.00" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="16"/>UGH, SHE IS<br></br>SO FABULOUSLY DOUCHEY.</p>
+      <p begin="00:13:09.00" end="00:13:11.00" region="speaker"><metadata ccrow="14" cccol="7"/>WHO&apos;S HE IN WITH?</p>
+      <p begin="00:13:11.00" end="00:13:14.29" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="7"/>OH, UM, PHILLIPPE MICHEL.<br></br>HE&apos;S A PHOTOGRAPHER.</p>
+      <p begin="00:13:14.29" end="00:13:16.29" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="13"/>OH. HE&apos;S DOING<br></br>THE SUPPLEMENT, ISN&apos;T HE?</p>
+      <p begin="00:13:16.29" end="00:13:17.50" region="speaker"><metadata ccrow="14" cccol="4"/>MM-HMM.</p>
+      <p begin="00:13:17.50" end="00:13:19.50" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="10"/>OH, HE&apos;S AMAZING.<br></br>HE&apos;S SHOT, LIKE, EVERYTHING.</p>
+      <p begin="00:13:19.50" end="00:13:21.50" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="4"/>YEAH, I THINK--<br></br>YOU KNOW, IT LOOKS LIKE</p>
+      <p begin="00:13:21.50" end="00:13:24.08" region="speaker"><metadata ccrow="11" cccol="0"/>THEY&apos;RE REALLY GOOD FRIENDS.</p>
+      <p begin="00:13:21.50" end="00:13:24.08" region="speaker"><metadata ccrow="13" cccol="14"/>OH, WELL,<br></br>THERE HAD BEEN SOME DRAMA.</p>
+      <p begin="00:13:24.08" end="00:13:26.08" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="9"/>DANIEL HOOKED UP WITH<br></br>PHILLIPPE&apos;S EX-GIRLFRIEND</p>
+      <p begin="00:13:26.08" end="00:13:27.71" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="10"/>A COUPLE OF YEARS AGO.</p>
+      <p begin="00:13:27.71" end="00:13:30.17" region="speaker"><metadata ccrow="14" cccol="7"/>BUT THEY&apos;RE FINE NOW.</p>
+      <p begin="00:13:30.17" end="00:13:33.12" region="speaker"><metadata ccrow="13" cccol="11"/>YEAH, WE WENT OUT<br></br>FOR, LIKE, A WEEK.</p>
+      <p begin="00:13:33.12" end="00:13:35.12" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="9"/>AND THEY DON&apos;T CALL HIM<br></br>&quot;THE TRIPOD&quot;</p>
+      <p begin="00:13:35.12" end="00:13:37.12" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="4"/>BECAUSE HE&apos;S A PHOTOGRAPHER,<br></br>IF YOU CATCH MY DRIFT.</p>
+      <p begin="00:13:37.12" end="00:13:38.33" region="speaker"><metadata ccrow="14" cccol="4"/>MM-HMM.</p>
+      <p begin="00:13:38.33" end="00:13:39.96" region="speaker"><metadata ccrow="14" cccol="9"/>THIS IS CRAP.</p>
+      <p begin="00:13:39.96" end="00:13:42.46" region="speaker"><metadata ccrow="14" cccol="12"/>(groans)</p>
+      <p begin="00:13:42.46" end="00:13:44.04" region="speaker"><metadata ccrow="14" cccol="14"/>NO.</p>
+      <p begin="00:13:44.04" end="00:13:45.50" region="speaker"><metadata ccrow="14" cccol="7"/>NO.</p>
+      <p begin="00:13:45.50" end="00:13:47.71" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>TOO DOWN, TOO OUT.</p>
+      <p begin="00:13:47.71" end="00:13:49.33" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>CAN&apos;T GO THERE.</p>
+      <p begin="00:13:49.33" end="00:13:51.00" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>ALL THIS IS TERRIBLE.</p>
+      <p begin="00:13:51.00" end="00:13:52.62" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="10"/>THAT&apos;S WHAT I THOUGHT.</p>
+      <p begin="00:13:52.62" end="00:13:54.62" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="12"/>PHILLIPPE, CAN I<br></br>TRUST YOU WITH SOMETHING?</p>
+      <p begin="00:13:54.62" end="00:13:56.00" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>OF COURSE, DANIEL.</p>
+      <p begin="00:13:56.00" end="00:13:58.08" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>YOU KNOW YOU&apos;RE LIKE<br></br>A BROTHER TO ME.</p>
+      <p begin="00:13:58.08" end="00:14:01.58" region="speaker"><metadata ccrow="11" cccol="4"/>I DON&apos;T THINK ANYONE WANTS<br></br>ME HERE, ESPECIALLY WILHELMINA.</p>
+      <p begin="00:13:58.08" end="00:14:01.58" region="speaker"><metadata ccrow="14" cccol="0"/>WELL, THAT&apos;S NO SECRET.</p>
+      <p begin="00:14:01.58" end="00:14:04.50" region="speaker"><metadata ccrow="13" cccol="1"/>I THINK SHE&apos;S TRYING TO TAKE ME<br></br>IN THE WRONG DIRECTION</p>
+      <p begin="00:14:04.50" end="00:14:06.12" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="9"/>WITH THIS FABIA LAYOUT.</p>
+      <p begin="00:14:06.12" end="00:14:07.88" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="10"/>DO YOU HAVE ANY IDEAS?</p>
+      <p begin="00:14:07.88" end="00:14:09.71" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>LIKE, A MILLION,</p>
+      <p begin="00:14:09.71" end="00:14:11.62" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>BUT KEEP THINGS<br></br>ON THE Q.T.</p>
+      <p begin="00:14:11.62" end="00:14:14.00" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="5"/>MOST OF THESE PEOPLE<br></br>ARE STILL LOYAL TO WILHELMINA,</p>
+      <p begin="00:14:14.00" end="00:14:16.29" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>AND YOU DON&apos;T WANT THEM<br></br>MUCKING THINGS UP.</p>
+      <p begin="00:14:16.29" end="00:14:18.17" region="speaker"><metadata ccrow="14" cccol="8"/>(knock on door)</p>
+      <p begin="00:14:18.17" end="00:14:22.12" region="speaker"><metadata ccrow="13" cccol="4"/>UM, SORRY TO INTERRUPT,<br></br>BUT CAN I GET YOU LUNCH?</p>
+      <p begin="00:14:22.12" end="00:14:25.17" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="9"/>NO, NO,<br></br>BUT YOU GO AHEAD. THANKS.</p>
+      <p begin="00:14:25.17" end="00:14:28.42" region="speaker"><metadata ccrow="13" cccol="4"/>HI, I&apos;M A REALLY BIG FAN<br></br>OF YOURS.</p>
+      <p begin="00:14:28.42" end="00:14:31.71" region="speaker"><metadata ccrow="13" cccol="3"/>THAT TRAVEL LAYOUT YOU DID<br></br>WITH THE TIKI TORCHES,</p>
+      <p begin="00:14:31.71" end="00:14:35.08" region="speaker"><metadata ccrow="13" cccol="8"/>WOW, THAT WAS--<br></br>THAT WAS <span tts:fontStyle="italic" >REALLY </span>GORGEOUS.</p>
+      <p begin="00:14:35.08" end="00:14:38.25" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="11"/>(chuckles) THANK YOU.</p>
+      <p begin="00:14:38.25" end="00:14:40.25" region="speaker"><metadata ccrow="13" cccol="13"/>YEAH,<br></br>IT KIND OF REMINDED ME</p>
+      <p begin="00:14:40.25" end="00:14:43.25" region="speaker"><metadata ccrow="13" cccol="5"/>OF THIS HIROAKI SPREAD<br></br>I&apos;D SEEN A COUPLE OF YEARS AGO.</p>
+      <p begin="00:14:46.04" end="00:14:47.04" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>(clears throat)</p>
+      <p begin="00:14:47.04" end="00:14:49.04" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="14"/>HEY, LISTEN,<br></br>I DON&apos;T KNOW WHO YOU ARE</p>
+      <p begin="00:14:49.04" end="00:14:50.67" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="8"/>OR WHAT YOU&apos;RE IMPLYING,</p>
+      <p begin="00:14:50.67" end="00:14:53.79" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="5"/>BUT, UM, I WOULD NEVER USE<br></br>ANOTHER PHOTOGRAPHER&apos;S IDEA.</p>
+      <p begin="00:14:53.79" end="00:14:55.00" region="speaker"><metadata ccrow="14" cccol="10"/>OH, NO, NO!</p>
+      <p begin="00:14:55.00" end="00:14:57.38" region="speaker"><metadata ccrow="13" cccol="7"/>NO, NO, I WASN&apos;T--<br></br>I WASN&apos;T SAYING... UM...</p>
+      <p begin="00:15:00.25" end="00:15:02.42" region="speaker"><metadata ccrow="14" cccol="9"/>I-I SHOULD GO.</p>
+      <p begin="00:15:07.04" end="00:15:09.46" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>WHAT&apos;S THE STORY HERE?</p>
+      <p begin="00:15:09.46" end="00:15:12.21" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>I KNOW THE TYPE OF WOMEN<br></br>YOU HIRE.</p>
+      <p begin="00:15:12.21" end="00:15:13.75" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="14"/>MY FATHER MADE ME.</p>
+      <p begin="00:15:13.75" end="00:15:15.88" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>YOU&apos;RE KIDDING ME?</p>
+      <p begin="00:15:15.88" end="00:15:17.79" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="18"/>LOOK,<br></br>SHE APPEARS TO BE GOOD,</p>
+      <p begin="00:15:17.79" end="00:15:18.79" region="speaker"><metadata ccrow="14" cccol="17"/>CAPABLE--</p>
+      <p begin="00:15:18.79" end="00:15:19.88" region="speaker"><metadata ccrow="14" cccol="4"/>FUGLY!</p>
+      <p begin="00:15:19.88" end="00:15:21.25" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>LISTEN TO ME,</p>
+      <p begin="00:15:21.25" end="00:15:23.92" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>YOU ARE THE EDITOR IN CHIEF<br></br>OF &quot;MODE&quot; MAGAZINE.</p>
+      <p begin="00:15:23.92" end="00:15:25.79" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>THIS BUSINESS IS ALL IMAGE.</p>
+      <p begin="00:15:25.79" end="00:15:28.21" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>IS THAT WHAT YOU WANT<br></br>REPRESENTING YOU?</p>
+      <p begin="00:15:28.21" end="00:15:30.67" region="speaker"><metadata ccrow="13" cccol="0"/>PAPARAZZI TAKING YOUR PICTURES,<br></br>AND <span tts:fontStyle="italic" >SHE&apos;S </span>STANDING BEHIND?</p>
+      <p begin="00:15:30.67" end="00:15:32.33" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="9"/>WELL, I CAN&apos;T FIRE HER,<br></br>PHILLIPPE.</p>
+      <p begin="00:15:32.33" end="00:15:35.00" region="speaker"><metadata ccrow="14" cccol="12"/>WELL...</p>
+      <p begin="00:15:35.00" end="00:15:38.00" region="speaker"><metadata ccrow="11" cccol="0"/>WHAT IF SHE QUITS?</p>
+      <p begin="00:15:35.00" end="00:15:38.00" region="speaker"><metadata ccrow="13" cccol="12"/>AND HOW DO I GET HER<br></br>TO DO THAT?</p>
+      <p begin="00:15:38.00" end="00:15:39.58" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>YOU BEAT HER DOWN...</p>
+      <p begin="00:15:41.92" end="00:15:43.50" region="speaker"><metadata ccrow="14" cccol="11"/>TO A PULP.</p>
+      <p begin="00:15:43.50" end="00:15:53.21" region="speaker"><metadata ccrow="0" cccol="0"/></p>
+      <p begin="00:15:53.21" end="00:15:54.54" region="speaker"><metadata ccrow="0" cccol="0"/></p>
+      <p begin="00:15:54.54" end="00:15:56.00" region="speaker"><metadata ccrow="14" cccol="3"/>(The Frank Popp Ensemble&apos;s</p>
+      <p begin="00:15:56.00" end="00:15:59.38" region="speaker"><metadata ccrow="13" cccol="5"/>&quot;Hips Teens Don&apos;t Wear<br></br>Blue Jeans&quot; playing)</p>
+      <p begin="00:15:59.38" end="00:16:02.46" region="speaker"><metadata ccrow="14" cccol="5"/>♪ EVERYBODY KNOWS US ♪</p>
+      <p begin="00:16:02.46" end="00:16:06.17" region="speaker"><metadata ccrow="13" cccol="9"/>♪ WE&apos;RE ALWAYS<br></br>WHERE IT&apos;S AT ♪</p>
+      <p begin="00:16:06.17" end="00:16:09.50" region="speaker"><metadata ccrow="14" cccol="5"/>♪ EVERYONE MEETS US ♪</p>
+      <p begin="00:16:09.50" end="00:16:13.46" region="speaker"><metadata ccrow="13" cccol="10"/>♪ AND WANTS<br></br>TO JOIN OUR GANG ♪</p>
+      <p begin="00:16:13.46" end="00:16:16.54" region="speaker"><metadata ccrow="13" cccol="9"/>♪ WE KNOW HOW<br></br>TO SWING OUR THING ♪</p>
+      <p begin="00:16:16.54" end="00:16:19.04" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>HEY, YOU.</p>
+      <p begin="00:16:19.04" end="00:16:20.42" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>BETTY, RIGHT?</p>
+      <p begin="00:16:20.42" end="00:16:22.04" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>DANIEL MEADE&apos;S<br></br>NEW ASSISTANT?</p>
+      <p begin="00:16:22.04" end="00:16:24.04" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="19"/>YEAH.<br></br>HOW DID YOU KNOW THAT?</p>
+      <p begin="00:16:24.04" end="00:16:26.08" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="2"/>OH, EVERYBODY KNOWS<br></br>EVERYTHING AROUND HERE.</p>
+      <p begin="00:16:26.08" end="00:16:28.46" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="3"/>I&apos;M CHRISTINA.<br></br>I WORK IN THE CLOSET.</p>
+      <p begin="00:16:28.46" end="00:16:30.00" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="14"/>THE CLOSET? WHAT--</p>
+      <p begin="00:16:30.00" end="00:16:32.00" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="6"/>MM-HMM, WHERE<br></br>ALL THE CLOTHES ARE KEPT.</p>
+      <p begin="00:16:32.00" end="00:16:34.58" region="speaker"><metadata ccrow="13" cccol="0"/>I ACT AS AN IN-HOUSE SEAMSTRESS,<br></br>SORT OF TRACK OF THINGS.</p>
+      <p begin="00:16:34.58" end="00:16:36.58" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="5"/>SOMETIMES,<br></br>THEY EVEN LET ME KEEP</p>
+      <p begin="00:16:36.58" end="00:16:38.58" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>SOME OF THE CRAPPY STUFF<br></br>FROM LAST SEASON,</p>
+      <p begin="00:16:38.58" end="00:16:40.58" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="2"/>BUT, YOU KNOW,<br></br>I HAVE TO IMPROVISE</p>
+      <p begin="00:16:40.58" end="00:16:42.58" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>&apos;CAUSE EVERYTHING<br></br>IS A SIZE ZERO!</p>
+      <p begin="00:16:42.58" end="00:16:43.79" region="speaker"><metadata ccrow="12" cccol="4"/>VOILà.</p>
+      <p begin="00:16:42.58" end="00:16:43.79" region="speaker"><metadata ccrow="14" cccol="22"/>NICE.</p>
+      <p begin="00:16:43.79" end="00:16:45.42" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>ANYWAY, WELL, I LIKE IT.</p>
+      <p begin="00:16:45.42" end="00:16:48.29" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>MOSTLY &apos;CAUSE I&apos;M BY MYSELF,<br></br>AWAY FROM ALL THE CHIC-EES.</p>
+      <p begin="00:16:48.29" end="00:16:49.58" region="speaker"><metadata ccrow="14" cccol="16"/>THE CHIC-EES?</p>
+      <p begin="00:16:49.58" end="00:16:51.67" region="speaker" tts:textAlign="left"><metadata ccrow="11" cccol="1"/>YEAH, THE BITCHES<br></br>THAT WORK AT &quot;MODE.&quot;</p>
+      <p begin="00:16:49.58" end="00:16:51.67" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="26"/>OH.</p>
+      <p begin="00:16:51.67" end="00:16:53.96" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>HEY, GIRLS!</p>
+      <p begin="00:16:53.96" end="00:16:57.17" region="speaker" tts:textAlign="left"><metadata ccrow="11" cccol="0"/>ZELDA, NANCY,<br></br>THIS IS BETTY.</p>
+      <p begin="00:16:53.96" end="00:16:57.17" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="18"/>OH, HI!</p>
+      <p begin="00:16:57.17" end="00:16:58.54" region="speaker"><metadata ccrow="12" cccol="25"/>HI!</p>
+      <p begin="00:16:57.17" end="00:16:58.54" region="speaker"><metadata ccrow="14" cccol="6"/>OH, SO YOU&apos;RE BETTY!</p>
+      <p begin="00:16:58.54" end="00:17:00.54" region="speaker" tts:textAlign="right"><metadata ccrow="12" cccol="15"/>NICE TO MEET YOU.</p>
+      <p begin="00:16:58.54" end="00:17:00.54" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="5"/>NICE TO MEET YOU, TOO.</p>
+      <p begin="00:17:00.54" end="00:17:03.25" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>IT&apos;S THE BIZARRO VERSION<br></br>OF &quot;SEX AND THE CITY.&quot;</p>
+      <p begin="00:17:03.25" end="00:17:05.04" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="11"/>STOP IT, I&apos;M GAGGING!</p>
+      <p begin="00:17:16.79" end="00:17:19.46" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="8"/>FUNNY, YOU LOOK LIKE<br></br>ANY OLD SCHLUB SITTING HERE,</p>
+      <p begin="00:17:19.46" end="00:17:22.62" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="18"/>FEEDING<br></br>THESE STUPID PIGEONS.</p>
+      <p begin="00:17:22.62" end="00:17:25.54" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>I DOUBT IF ANY OLD SCHLUB<br></br>WOULD BE FEEDING THEM</p>
+      <p begin="00:17:25.54" end="00:17:27.54" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>ARTISANAL <span tts:fontStyle="italic" >PAIN DE MIE <br></br></span>THEY MADE THEMSELVES.</p>
+      <p begin="00:17:27.54" end="00:17:29.25" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="17"/>THERE&apos;S NOTHING<br></br>TO WORRY ABOUT.</p>
+      <p begin="00:17:29.25" end="00:17:30.75" region="speaker"><metadata ccrow="14" cccol="18"/>SHE&apos;S GONE.</p>
+      <p begin="00:17:30.75" end="00:17:33.58" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="3"/>WEREN&apos;T YOU SITTING FRONT ROW<br></br>AT THE FUNERAL?</p>
+      <p begin="00:17:33.58" end="00:17:35.21" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>CLOSED CASKET.</p>
+      <p begin="00:17:37.12" end="00:17:39.38" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>DOUBLE... TRIPLE-CHECK.</p>
+      <p begin="00:17:39.38" end="00:17:41.88" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="8"/>THE THINGS<br></br>FEY SOMMERS KNEW ABOUT ME,</p>
+      <p begin="00:17:41.88" end="00:17:44.04" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>ABOUT THE COMPANY...</p>
+      <p begin="00:17:44.04" end="00:17:45.62" region="speaker"><metadata ccrow="14" cccol="19"/>I&apos;M ON IT.</p>
+      <p begin="00:17:47.46" end="00:17:49.50" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="4"/>HI, BETTY. THERE&apos;S A PROBLEM<br></br>WITH MY LUNCH.</p>
+      <p begin="00:17:49.50" end="00:17:51.33" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>(Betty) OKAY.</p>
+      <p begin="00:17:51.33" end="00:17:55.50" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="15"/>I LOVE COLE SLAW.<br></br>I HATE CABBAGE.</p>
+      <p begin="00:17:55.50" end="00:17:57.71" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>BUT COLE SLAW IS...</p>
+      <p begin="00:17:57.71" end="00:17:59.71" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="17"/>NO, NO, NO.<br></br>NO, I KNOW. I JUST--</p>
+      <p begin="00:17:59.71" end="00:18:02.21" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="9"/>I-I LIKE THE--THE TART,<br></br>TANGY DRESSING.</p>
+      <p begin="00:18:02.21" end="00:18:04.12" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="12"/>CAN YOU DO SOMETHING<br></br>ABOUT IT...</p>
+      <p begin="00:18:04.12" end="00:18:06.12" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="15"/><span tts:fontStyle="italic" >BEFORE </span>IT GETS<br></br>TO ROOM TEMPERATURE?</p>
+      <p begin="00:18:06.12" end="00:18:09.12" region="speaker"><metadata ccrow="13" cccol="0"/>(Donna Summer&apos;s &quot;She Works Hard<br></br>for the Money&quot; playing)</p>
+      <p begin="00:18:10.88" end="00:18:14.33" region="speaker"><metadata ccrow="13" cccol="8"/>♪ SHE WORKS HARD<br></br>FOR THE MONEY ♪</p>
+      <p begin="00:18:14.33" end="00:18:17.67" region="speaker"><metadata ccrow="14" cccol="3"/>♪ SO HARD FOR IT, HONEY ♪</p>
+      <p begin="00:18:17.67" end="00:18:19.67" region="speaker"><metadata ccrow="13" cccol="8"/>♪ SHE WORKS HARD<br></br>FOR THE MONEY ♪</p>
+      <p begin="00:18:19.67" end="00:18:23.58" region="speaker"><metadata ccrow="13" cccol="8"/>♪ SO YOU BETTER<br></br>TREAT HER RIGHT ♪</p>
+      <p begin="00:18:23.58" end="00:18:25.46" region="speaker"><metadata ccrow="14" cccol="13"/>HELLO?</p>
+      <p begin="00:18:25.46" end="00:18:27.08" region="speaker"><metadata ccrow="14" cccol="10"/>HI, DANIEL.</p>
+      <p begin="00:18:28.50" end="00:18:31.79" region="speaker"><metadata ccrow="14" cccol="3"/>♪ SO HARD FOR IT, HONEY ♪</p>
+      <p begin="00:18:31.79" end="00:18:33.79" region="speaker"><metadata ccrow="13" cccol="8"/>♪ SHE WORKS HARD<br></br>FOR THE MONEY ♪</p>
+      <p begin="00:18:33.79" end="00:18:37.62" region="speaker"><metadata ccrow="13" cccol="8"/>♪ SO YOU BETTER<br></br>TREAT HER RIGHT ♪</p>
+      <p begin="00:18:39.62" end="00:18:42.50" region="speaker"><metadata ccrow="13" cccol="9"/>♪ ONETTA THERE<br></br>IN THE CORNER STANDS ♪</p>
+      <p begin="00:18:42.50" end="00:18:45.92" region="speaker"><metadata ccrow="13" cccol="7"/>♪ AND SHE WONDERS<br></br>WHERE SHE IS ♪</p>
+      <p begin="00:18:45.92" end="00:18:48.25" region="speaker"><metadata ccrow="14" cccol="2"/>♪ AND IT&apos;S STRANGE TO HER ♪</p>
+      <p begin="00:18:48.25" end="00:18:53.12" region="speaker"><metadata ccrow="13" cccol="9"/>♪ SOME PEOPLE<br></br>SEEM TO HAVE EVERYTHING ♪</p>
+      <p begin="00:18:53.12" end="00:18:54.71" region="speaker"><metadata ccrow="14" cccol="7"/>(cell phone rings)</p>
+      <p begin="00:18:54.71" end="00:18:55.79" region="speaker"><metadata ccrow="14" cccol="8"/>HI.</p>
+      <p begin="00:18:55.79" end="00:18:58.12" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="11"/>BETTY, WHERE ARE YOU?</p>
+      <p begin="00:18:58.12" end="00:18:59.92" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>I&apos;M STILL WORKING.</p>
+      <p begin="00:18:59.92" end="00:19:01.58" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="9"/>YOU FORGOT, DIDN&apos;T YOU?</p>
+      <p begin="00:19:01.58" end="00:19:05.00" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="2"/>OH, MY GOD,<br></br>DAD&apos;S BIRTHDAY.</p>
+      <p begin="00:19:05.00" end="00:19:06.79" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>YEAH, I WAS BUSY.</p>
+      <p begin="00:19:13.12" end="00:19:16.75" region="speaker"><metadata ccrow="13" cccol="4"/>LOOK, I GOTTA GO, OKAY?<br></br>I&apos;LL GET HOME AS SOON AS I CAN.</p>
+      <p begin="00:19:19.96" end="00:19:23.92" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="5"/>UM, YEAH, THE, UH...<br></br>THE RED TURKEY IS ON THE MOVE.</p>
+      <p begin="00:19:23.92" end="00:19:25.25" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="22"/>Hold on...</p>
+      <p begin="00:19:25.25" end="00:19:26.62" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="16"/>IT&apos;S WORK STUFF.</p>
+      <p begin="00:19:26.62" end="00:19:29.92" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="14"/>WILL YA SLEEP OVER<br></br>ANOTHER NIGHT?</p>
+      <p begin="00:19:29.92" end="00:19:31.92" region="speaker"><metadata ccrow="14" cccol="4"/>SURE.</p>
+      <p begin="00:19:31.92" end="00:19:35.12" region="speaker"><metadata ccrow="13" cccol="9"/>SO, UH, WHEN&apos;S<br></br>THIS POSITION GONNA OPEN?</p>
+      <p begin="00:19:37.42" end="00:19:40.33" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="1"/>OH, HOPEFULLY,<br></br>VERY, VERY SOON.</p>
+      <p begin="00:19:40.33" end="00:19:42.33" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="23"/>OH, OKAY.</p>
+      <p begin="00:19:42.33" end="00:19:45.08" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="9"/>WELL, UH, GOOD NIGHT...</p>
+      <p begin="00:19:45.08" end="00:19:47.21" region="speaker"><metadata ccrow="14" cccol="22"/>BOSS.</p>
+      <p begin="00:19:49.08" end="00:19:51.96" region="speaker"><metadata ccrow="14" cccol="14"/>BYE!</p>
+      <p begin="00:19:53.88" end="00:19:55.00" region="speaker"><metadata ccrow="14" cccol="14"/>HEY.</p>
+      <p begin="00:19:55.00" end="00:19:58.50" region="speaker"><metadata ccrow="13" cccol="4"/>HI. DO YOU--DO YOU NEED<br></br>ANYTHING ELSE?</p>
+      <p begin="00:19:58.50" end="00:20:00.50" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>WHY DON&apos;T YOU STICK AROUND<br></br>FOR A LITTLE BIT,</p>
+      <p begin="00:20:00.50" end="00:20:02.62" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="4"/>MAKE SURE<br></br>EVERYTHING&apos;S OKAY?</p>
+      <p begin="00:20:04.83" end="00:20:05.83" region="speaker"><metadata ccrow="14" cccol="13"/>YEAH.</p>
+      <p begin="00:20:05.83" end="00:20:08.58" region="speaker"><metadata ccrow="14" cccol="5"/>OKAY, NO--NO PROBLEM.</p>
+      <p begin="00:20:19.62" end="00:20:21.58" region="speaker"><metadata ccrow="14" cccol="8"/>PERFECT TIMING.</p>
+      <p begin="00:20:32.88" end="00:20:35.12" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>(Gina laughs)</p>
+      <p begin="00:20:35.12" end="00:20:38.21" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="5"/>OH, WALTER!<br></br>YOU&apos;RE SUCH A BIG BOY.</p>
+      <p begin="00:20:38.21" end="00:20:40.50" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>MMM. (laughs)</p>
+      <p begin="00:20:55.79" end="00:20:57.67" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="18"/>HE&apos;S SLEEPING.</p>
+      <p begin="00:20:57.67" end="00:21:01.21" region="speaker"><metadata ccrow="11" cccol="0"/>HILDA, I KNOW...</p>
+      <p begin="00:20:57.67" end="00:21:01.21" region="speaker"><metadata ccrow="13" cccol="7"/>DO YOU REALIZE THIS IS<br></br>THE FIRST TIME SINCE MOM DIED</p>
+      <p begin="00:21:01.21" end="00:21:03.67" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="8"/>THAT WE HAVEN&apos;T ALL BEEN<br></br>TOGETHER ON HIS BIRTHDAY?</p>
+      <p begin="00:21:03.67" end="00:21:07.33" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>YES, I REALIZE THAT,<br></br>AND I AM SORRY,</p>
+      <p begin="00:21:07.33" end="00:21:10.75" region="speaker"><metadata ccrow="12" cccol="0"/>BUT I WAS WORKING--</p>
+      <p begin="00:21:07.33" end="00:21:10.75" region="speaker"><metadata ccrow="14" cccol="15"/>IT&apos;S FINE, BETTY.</p>
+      <p begin="00:21:10.75" end="00:21:13.75" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="18"/>I JUST HOPE<br></br>IT&apos;S ALL WORTH IT.</p>
+      <p begin="00:21:18.38" end="00:21:20.58" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="18"/>WE SAVED YOU<br></br>A PIECE OF CAKE.</p>
+      <p begin="00:21:20.58" end="00:21:22.88" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="13"/>IT&apos;S IN THE FRIDGE.</p>
+      <p begin="00:21:22.88" end="00:22:04.46" region="speaker"><metadata ccrow="0" cccol="0"/></p>
+      <p begin="00:22:04.46" end="00:22:05.12" region="speaker"><metadata ccrow="0" cccol="0"/></p>
+      <p begin="00:22:05.12" end="00:22:09.38" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="29"/>♪♪♪</p>
+      <p begin="00:22:10.67" end="00:22:15.21" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="4"/>OH, THIS PHOTO SHOOT<br></br>IS GONNA BE ABSOLUTELY SICK.</p>
+      <p begin="00:22:15.21" end="00:22:18.00" region="speaker"><metadata ccrow="13" cccol="0"/>BEST SUPPLEMENT WE&apos;VE EVER DONE<br></br>FOR FABIA BY FAR.</p>
+      <p begin="00:22:20.67" end="00:22:22.88" region="speaker"><metadata ccrow="14" cccol="12"/>UH-HUH.</p>
+      <p begin="00:22:24.79" end="00:22:27.42" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="4"/>OH, YEAH, I&apos;M--I&apos;M ON MY WAY<br></br>TO SET AS WE SPEAK.</p>
+      <p begin="00:22:27.42" end="00:22:28.54" region="speaker"><metadata ccrow="14" cccol="21"/>UH...</p>
+      <p begin="00:22:28.54" end="00:22:29.54" region="speaker"><metadata ccrow="14" cccol="21"/>HELLO?</p>
+      <p begin="00:22:29.54" end="00:22:30.75" region="speaker"><metadata ccrow="14" cccol="22"/>OH.</p>
+      <p begin="00:22:32.42" end="00:22:33.46" region="speaker"><metadata ccrow="14" cccol="20"/>(sighs)</p>
+      <p begin="00:22:33.46" end="00:22:36.21" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="2"/>IT&apos;S A REALLY<br></br>EXCITING DAY, HUH?</p>
+      <p begin="00:22:36.21" end="00:22:39.17" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="7"/>I MEAN,<br></br>WITH THE PHOTO SHOOT.</p>
+      <p begin="00:22:39.17" end="00:22:42.17" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="1"/>HEY, DANIEL, I KNOW YOU&apos;RE<br></br>REALLY OVERWHELMED RIGHT NOW,</p>
+      <p begin="00:22:42.17" end="00:22:43.54" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>BUT I WAS WONDERING,</p>
+      <p begin="00:22:43.54" end="00:22:46.54" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>THERE WAS SOMETHING <br></br>THAT I JUST...</p>
+      <p begin="00:22:49.42" end="00:22:50.54" region="speaker"><metadata ccrow="14" cccol="4"/>DANIEL,</p>
+      <p begin="00:22:50.54" end="00:22:53.54" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="1"/>YOU KNOW, I WAS WONDERING<br></br>IF YOU HAD A QUICK MOMENT--</p>
+      <p begin="00:22:53.54" end="00:22:56.62" region="speaker" tts:textAlign="right"><metadata ccrow="11" cccol="13"/>DO I LOOK LIKE<br></br>I HAVE A &quot;QUICK MOMENT&quot;?</p>
+      <p begin="00:22:53.54" end="00:22:56.62" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="4"/>NO.</p>
+      <p begin="00:22:56.62" end="00:22:57.83" region="speaker"><metadata ccrow="14" cccol="4"/>SO SORRY.</p>
+      <p begin="00:22:57.83" end="00:23:00.21" region="speaker"><metadata ccrow="13" cccol="13"/>DAMN IT!<br></br>THEY FORGOT ONE OF THE OUTFITS.</p>
+      <p begin="00:23:00.21" end="00:23:03.21" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="7"/>LOOK, GO UP TO THE CLOSET<br></br>AND BRING IT TO SET.</p>
+      <p begin="00:23:03.21" end="00:23:05.00" region="speaker"><metadata ccrow="14" cccol="12"/>PLEASE?</p>
+      <p begin="00:23:15.71" end="00:23:19.00" region="speaker"><metadata ccrow="13" cccol="8"/>FEEL THE FABRIC<br></br>ON THAT THING.</p>
+      <p begin="00:23:19.00" end="00:23:20.88" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="13"/>IT&apos;S KIND OF ROUGH.</p>
+      <p begin="00:23:20.88" end="00:23:22.50" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="5"/>THAT&apos;S BECAUSE IT&apos;S BURLAP.</p>
+      <p begin="00:23:22.50" end="00:23:24.04" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="17"/>BASICALLY,<br></br>YOU&apos;RE TALKING $7,000</p>
+      <p begin="00:23:24.04" end="00:23:25.92" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="5"/>FOR A DESIGNER POTATO SACK.</p>
+      <p begin="00:23:25.92" end="00:23:27.92" region="speaker"><metadata ccrow="13" cccol="9"/>I CAN&apos;T BELIEVE<br></br>PEOPLE ACTUALLY BUY THIS STUFF.</p>
+      <p begin="00:23:27.92" end="00:23:29.92" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>I CAN&apos;T BELIEVE<br></br>THEY WEAR IT.</p>
+      <p begin="00:23:29.92" end="00:23:31.92" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="1"/>AND USUALLY JUST ONCE<br></br>BEFORE THEY&apos;LL CHUCK IT</p>
+      <p begin="00:23:31.92" end="00:23:33.92" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="4"/>TO MAKE ROOM<br></br>FOR THE NEXT SEASON.</p>
+      <p begin="00:23:33.92" end="00:23:37.50" region="speaker"><metadata ccrow="13" cccol="6"/>BUT THAT&apos;S FASHION,<br></br>AND I&apos;VE GOT TO SAY, I LOVE IT.</p>
+      <p begin="00:23:37.50" end="00:23:38.67" region="speaker"><metadata ccrow="14" cccol="4"/>(laughs)</p>
+      <p begin="00:23:38.67" end="00:23:41.46" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>OH, YOU&apos;RE NOT TOO MUCH<br></br>INTO IT, ARE YOU?</p>
+      <p begin="00:23:41.46" end="00:23:44.29" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="16"/>UM, NO. (laughs)</p>
+      <p begin="00:23:44.29" end="00:23:47.12" region="speaker"><metadata ccrow="14" cccol="18"/>NOT REALLY.</p>
+      <p begin="00:23:47.12" end="00:23:49.33" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>SO HOW&apos;S IT GOING?</p>
+      <p begin="00:23:49.33" end="00:23:51.75" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="16"/>UM... (chuckles)</p>
+      <p begin="00:23:51.75" end="00:23:54.58" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>BRUTAL, HUH?</p>
+      <p begin="00:23:56.92" end="00:24:01.04" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="14"/>WELL, NOTHING I DO<br></br>IS GOOD ENOUGH.</p>
+      <p begin="00:24:01.04" end="00:24:03.38" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="9"/>HE TREATS ME LIKE DIRT.</p>
+      <p begin="00:24:03.38" end="00:24:06.12" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="12"/>I MEAN, JUST NOW<br></br>I WAS TRYING TO SHOW HIM</p>
+      <p begin="00:24:06.12" end="00:24:10.62" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="19"/>THIS ONE IDEA<br></br>THAT I HAD...</p>
+      <p begin="00:24:10.62" end="00:24:12.62" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="11"/>IT WOULD&apos;VE TAKEN HIM<br></br>30 SECONDS,</p>
+      <p begin="00:24:12.62" end="00:24:15.00" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="9"/>BUT HE BIT MY HEAD OFF.</p>
+      <p begin="00:24:17.04" end="00:24:18.42" region="speaker"><metadata ccrow="14" cccol="20"/>WHAT?</p>
+      <p begin="00:24:18.42" end="00:24:20.92" region="speaker"><metadata ccrow="14" cccol="4"/>BETTY...</p>
+      <p begin="00:24:20.92" end="00:24:22.92" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="7"/>NANCY WAS<br></br>DOWN IN HUMAN RESOURCES,</p>
+      <p begin="00:24:22.92" end="00:24:27.21" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="1"/>AND SOME PEOPLE THERE<br></br>WERE TALKING, AND, UH...</p>
+      <p begin="00:24:27.21" end="00:24:28.38" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>WELL, APPARENTLY,</p>
+      <p begin="00:24:28.38" end="00:24:30.54" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="2"/>BRADFORD WAS THE ONE<br></br>THAT WANTED TO HIRE YOU.</p>
+      <p begin="00:24:30.54" end="00:24:33.33" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="17"/>BRADFORD MEADE?</p>
+      <p begin="00:24:33.33" end="00:24:35.21" region="speaker" tts:textAlign="right"><metadata ccrow="12" cccol="8"/>WAIT, HE KNOWS WHO I AM?</p>
+      <p begin="00:24:33.33" end="00:24:35.21" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="3"/>MM-HMM.</p>
+      <p begin="00:24:35.21" end="00:24:39.08" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>HE MADE DANIEL HIRE YOU...</p>
+      <p begin="00:24:39.08" end="00:24:41.08" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="5"/>&apos;CAUSE HE DIDN&apos;T<br></br>WANT HIS SON TO BE TEMPTED</p>
+      <p begin="00:24:41.08" end="00:24:44.29" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="5"/>TO SLEEP WITH<br></br>HIS ASSISTANTS ANYMORE.</p>
+      <p begin="00:24:45.92" end="00:24:47.25" region="speaker"><metadata ccrow="14" cccol="22"/>OH.</p>
+      <p begin="00:24:47.25" end="00:24:50.04" region="speaker"><metadata ccrow="11" cccol="0"/>I&apos;M SORRY, BETTY.</p>
+      <p begin="00:24:47.25" end="00:24:50.04" region="speaker"><metadata ccrow="13" cccol="17"/>NO, THAT--<br></br>THAT EXPLAINS A LOT.</p>
+      <p begin="00:24:50.04" end="00:24:52.33" region="speaker"><metadata ccrow="12" cccol="0"/>BETTY--</p>
+      <p begin="00:24:50.04" end="00:24:52.33" region="speaker"><metadata ccrow="14" cccol="6"/>NO, NO, REALLY, IT&apos;S FINE.</p>
+      <p begin="00:24:52.33" end="00:24:56.04" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="12"/>I SHOULD BE GRATEFUL<br></br>THAT I GOT MY BREAK.</p>
+      <p begin="00:24:56.04" end="00:24:59.92" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="16"/>IT&apos;S NOT SO EASY<br></br>FOR EVERYONE.</p>
+      <p begin="00:24:59.92" end="00:25:04.04" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="8"/>THIS IS JUST HOW IT WAS<br></br>SUPPOSED TO HAPPEN FOR ME.</p>
+      <p begin="00:25:04.04" end="00:25:07.00" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="18"/>WELL,<br></br>I SHOULD BE GOING, SO...</p>
+      <p begin="00:25:07.00" end="00:25:08.42" region="speaker"><metadata ccrow="14" cccol="19"/>THANK YOU.</p>
+      <p begin="00:25:21.58" end="00:25:25.58" region="speaker" tts:textAlign="right"><metadata ccrow="0" cccol="29"/>♪♪♪</p>
+      <p begin="00:25:25.58" end="00:25:29.58" region="speaker"><metadata ccrow="14" cccol="1"/>(woman speaking indistinctly)</p>
+      <p begin="00:25:29.58" end="00:25:32.67" region="speaker"><metadata ccrow="13" cccol="7"/>(woman) YOU&apos;VE GOT<br></br>A GOOD OUTFIT HERE...</p>
+      <p begin="00:25:32.67" end="00:25:35.67" region="speaker" tts:textAlign="right"><metadata ccrow="11" cccol="4"/>(man) NOW LET&apos;S HOLD IT.</p>
+      <p begin="00:25:32.67" end="00:25:35.67" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="6"/>(woman) YOU WANNA BLEND IT<br></br>A LITTLE BIT BETTER.</p>
+      <p begin="00:25:35.67" end="00:25:38.08" region="speaker"><metadata ccrow="11" cccol="11"/>(man) DOES THIS WORK?</p>
+      <p begin="00:25:35.67" end="00:25:38.08" region="speaker"><metadata ccrow="13" cccol="0"/>(woman) THAT&apos;S BETTER.<br></br>I LIKE IT.</p>
+      <p begin="00:25:38.08" end="00:25:40.46" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="12"/>OH! SO, UH, I WAS<br></br>JUST ON MY LUNCH BREAK,</p>
+      <p begin="00:25:40.46" end="00:25:42.46" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="15"/>AND I THOUGHT<br></br>I&apos;D STOP BY. (giggles)</p>
+      <p begin="00:25:42.46" end="00:25:44.08" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="9"/>THIS IS REALLY AMAZING.</p>
+      <p begin="00:25:44.08" end="00:25:45.46" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>THANK YOU, AMANDA.</p>
+      <p begin="00:25:45.46" end="00:25:47.54" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>AND IF YOU NEED <span tts:fontStyle="italic" >ANYTHING...</span></p>
+      <p begin="00:25:47.54" end="00:25:49.17" region="speaker"><metadata ccrow="14" cccol="6"/>TRAFFIC OR HANGOVER?</p>
+      <p begin="00:25:49.17" end="00:25:51.54" region="speaker"><metadata ccrow="13" cccol="8"/>DID--DID ANYONE<br></br>READ THE CONTRACT TO HER?</p>
+      <p begin="00:25:51.54" end="00:25:53.54" region="speaker"><metadata ccrow="13" cccol="6"/>SHE NEEDS TO BE HERE<br></br>FOR THE TEST SHOTS!</p>
+      <p begin="00:25:53.54" end="00:25:55.62" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="17"/>HEY, HEY, HEY,<br></br>WHAT&apos;S GOING ON?</p>
+      <p begin="00:25:55.62" end="00:25:56.79" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="3"/>(sighs) IZABELA,<br></br>THE BRAZILIAN MODEL...</p>
+      <p begin="00:25:56.79" end="00:25:58.42" region="speaker" tts:textAlign="left"><metadata ccrow="12" cccol="22"/>YEAH?</p>
+      <p begin="00:25:56.79" end="00:25:58.42" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>SHE&apos;S LATE.</p>
+      <p begin="00:25:58.42" end="00:26:00.42" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="1"/>THIS IS A CRAZY,<br></br>COMPLICATED SHOOT,</p>
+      <p begin="00:26:00.42" end="00:26:02.79" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>AND I NEED HER DRESSED<br></br>AND READY... RIGHT NOW.</p>
+      <p begin="00:26:02.79" end="00:26:05.29" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="2"/>PHILLIPPE, THEY&apos;RE TEST SHOTS.<br></br>LET&apos;S JUST USE THE STAND-IN.</p>
+      <p begin="00:26:05.29" end="00:26:06.67" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="6"/>NO, NO,<br></br>SHE&apos;S TOO SPECIFIC.</p>
+      <p begin="00:26:06.67" end="00:26:08.67" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>I NEED SOMEONE WITH HER--<br></br>WITH HER SKIN TONE.</p>
+      <p begin="00:26:08.67" end="00:26:11.08" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>SOMEONE LIKE...</p>
+      <p begin="00:26:11.08" end="00:26:12.29" region="speaker"><metadata ccrow="14" cccol="8"/>HER.</p>
+      <p begin="00:26:13.71" end="00:26:14.71" region="speaker"><metadata ccrow="14" cccol="21"/>FUNNY.</p>
+      <p begin="00:26:14.71" end="00:26:18.00" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>I BET YOU SHE QUITS<br></br>BEFORE SHE DOES IT.</p>
+      <p begin="00:26:23.04" end="00:26:25.33" region="speaker"><metadata ccrow="12" cccol="0"/>(grunts) OH!</p>
+      <p begin="00:26:23.04" end="00:26:25.33" region="speaker"><metadata ccrow="14" cccol="14"/>WHOOPS, EXCUSE ME.</p>
+      <p begin="00:26:25.33" end="00:26:27.67" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="9"/>BETTY! OH, I AM SO GLAD<br></br>YOU&apos;RE HERE.</p>
+      <p begin="00:26:27.67" end="00:26:30.58" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="6"/>LISTEN, WE HAVE A CRISIS<br></br>AND WE REALLY NEED YOUR HELP.</p>
+      <p begin="00:26:30.58" end="00:26:33.29" region="speaker" tts:textAlign="right"><metadata ccrow="11" cccol="4"/>OKAY.</p>
+      <p begin="00:26:30.58" end="00:26:33.29" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="11"/>UH, ONE OF OUR MODELS<br></br>DIDN&apos;T SHOW UP.</p>
+      <p begin="00:26:33.29" end="00:26:35.50" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="10"/>WE REALLY NEED SOMEONE<br></br>TO STAND IN FOR HER</p>
+      <p begin="00:26:35.50" end="00:26:38.12" region="speaker"><metadata ccrow="14" cccol="17"/>IN WARDROBE.</p>
+      <p begin="00:26:38.12" end="00:26:40.71" region="speaker"><metadata ccrow="14" cccol="4"/>UM, SO...</p>
+      <p begin="00:26:40.71" end="00:26:42.71" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>YOU WANT--YOU WANT ME<br></br>TO DO IT?</p>
+      <p begin="00:26:42.71" end="00:26:45.08" region="speaker"><metadata ccrow="14" cccol="20"/>MM-HMM.</p>
+      <p begin="00:26:45.08" end="00:26:46.42" region="speaker"><metadata ccrow="14" cccol="4"/>UM...</p>
+      <p begin="00:26:46.42" end="00:26:49.25" region="speaker"><metadata ccrow="14" cccol="22"/>WELL?</p>
+      <p begin="00:26:49.25" end="00:26:50.25" region="speaker"><metadata ccrow="14" cccol="4"/>WELL--</p>
+      <p begin="00:26:50.25" end="00:26:52.54" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="1"/>THIS... IS WHAT<br></br>YOU WANT ME TO DO?</p>
+      <p begin="00:26:52.54" end="00:26:54.21" region="speaker"><metadata ccrow="14" cccol="22"/>YEAH!</p>
+      <p begin="00:27:08.33" end="00:27:11.00" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>WELL, IT LOOKS LIKE<br></br>SHE FINALLY QUIT.</p>
+      <p begin="00:27:11.00" end="00:27:12.42" region="speaker"><metadata ccrow="14" cccol="22"/>GOOD.</p>
+      <p begin="00:27:12.42" end="00:27:14.42" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="7"/>SMART ASS HAD NO BUSINESS<br></br>WORKING FOR YOU</p>
+      <p begin="00:27:14.42" end="00:27:16.42" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="10"/>IN THE FIRST... PLACE.</p>
+      <p begin="00:27:16.42" end="00:27:18.62" region="speaker"><metadata ccrow="13" cccol="5"/>(Princess Superstar&apos;s<br></br>&quot;I Like it a Lot&quot; playing)</p>
+      <p begin="00:27:18.62" end="00:27:19.88" region="speaker"><metadata ccrow="14" cccol="10"/>(man) WHOA.</p>
+      <p begin="00:27:19.88" end="00:27:22.67" region="speaker"><metadata ccrow="13" cccol="7"/>♪ PLEASE ALLOW ME<br></br>TO INTRODUCE MYSELF ♪</p>
+      <p begin="00:27:22.67" end="00:27:24.58" region="speaker"><metadata ccrow="14" cccol="4"/>♪ MY NAME IS SUPERSTAR ♪</p>
+      <p begin="00:27:24.58" end="00:27:26.79" region="speaker"><metadata ccrow="14" cccol="5"/>♪ SHORT FOR NOTHING ♪</p>
+      <p begin="00:27:28.54" end="00:27:30.54" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="11"/>WHERE DO YOU WANT ME?</p>
+      <p begin="00:27:32.71" end="00:27:34.42" region="speaker"><metadata ccrow="14" cccol="22"/>RIGHT...</p>
+      <p begin="00:27:34.42" end="00:27:35.75" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="18"/>THERE IS FINE.</p>
+      <p begin="00:27:35.75" end="00:27:37.38" region="speaker"><metadata ccrow="14" cccol="8"/>I SEE A SHADOW.</p>
+      <p begin="00:27:37.38" end="00:27:39.79" region="speaker"><metadata ccrow="13" cccol="4"/>CAN YOU MOVE THAT LIGHT<br></br>OVER TO THE RIGHT? THANK YOU.</p>
+      <p begin="00:27:39.79" end="00:27:42.21" region="speaker"><metadata ccrow="14" cccol="2"/>MOVEMENT, LADIES. MOVEMENT.</p>
+      <p begin="00:27:42.21" end="00:27:43.54" region="speaker"><metadata ccrow="14" cccol="13"/>SEXY.</p>
+      <p begin="00:27:43.54" end="00:27:46.46" region="speaker"><metadata ccrow="13" cccol="10"/>MORE, MORE.<br></br>GIVE ME MORE.</p>
+      <p begin="00:27:46.46" end="00:27:49.21" region="speaker"><metadata ccrow="13" cccol="5"/>OKAY, YOU&apos;RE DEVOURING<br></br>THE CAMERA WITH YOUR EYES.</p>
+      <p begin="00:27:49.21" end="00:27:53.12" region="speaker"><metadata ccrow="14" cccol="8"/>(women laughing)</p>
+      <p begin="00:27:55.75" end="00:27:58.38" region="speaker"><metadata ccrow="13" cccol="6"/>(Phillippe) GIVE ME <br></br>A LITTLE MORE COQUETTE, BETTY.</p>
+      <p begin="00:28:01.46" end="00:28:04.12" region="speaker"><metadata ccrow="14" cccol="21"/>STOP IT.</p>
+      <p begin="00:28:04.12" end="00:28:05.96" region="speaker"><metadata ccrow="14" cccol="21"/><span tts:fontStyle="italic" >STOP IT.</span></p>
+      <p begin="00:28:17.12" end="00:28:18.71" region="speaker"><metadata ccrow="14" cccol="4"/>BETTY, WAIT!</p>
+      <p begin="00:28:20.33" end="00:28:22.25" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="8"/>THIS IS WHAT YOU WANTED,<br></br>ISN&apos;T IT,</p>
+      <p begin="00:28:22.25" end="00:28:24.92" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="16"/>TO HUMILIATE ME<br></br>AND MAKE ME QUIT?</p>
+      <p begin="00:28:24.92" end="00:28:27.54" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="10"/>GOD FORBID YOU HAD<br></br>TO WORK WITH THE UGLY GIRL</p>
+      <p begin="00:28:27.54" end="00:28:29.67" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="19"/>YOUR DAD<br></br>FORCED YOU TO HIRE.</p>
+      <p begin="00:28:29.67" end="00:28:31.54" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="10"/>WELL, CONGRATULATIONS.</p>
+      <p begin="00:28:31.54" end="00:28:43.08" region="speaker"><metadata ccrow="0" cccol="0"/></p>
+      <p begin="00:28:43.08" end="00:28:43.71" region="speaker"><metadata ccrow="0" cccol="0"/></p>
+      <p begin="00:28:43.71" end="00:28:46.96" region="speaker"><metadata ccrow="14" cccol="5"/>(Cumbia music playing)</p>
+      <p begin="00:29:02.42" end="00:29:03.67" region="speaker"><metadata ccrow="14" cccol="11"/>CHAMOMILE?</p>
+      <p begin="00:29:03.67" end="00:29:05.62" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="14"/>THANK YOU, JUSTIN.</p>
+      <p begin="00:29:05.62" end="00:29:07.62" region="speaker"><metadata ccrow="13" cccol="11"/>I&apos;M SORRY<br></br>IT DIDN&apos;T WORK OUT.</p>
+      <p begin="00:29:07.62" end="00:29:08.92" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="21"/>IT HAPPENS.</p>
+      <p begin="00:29:08.92" end="00:29:10.75" region="speaker"><metadata ccrow="13" cccol="12"/>MOM SAID<br></br>SHE WASN&apos;T SURPRISED.</p>
+      <p begin="00:29:10.75" end="00:29:12.42" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="16"/>HILDA SAID THAT?</p>
+      <p begin="00:29:12.42" end="00:29:15.08" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>SHE SAID ALL THE STUFF<br></br>YOU WANNA DO,</p>
+      <p begin="00:29:15.08" end="00:29:16.88" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>OWNING A MAGAZINE,</p>
+      <p begin="00:29:16.88" end="00:29:18.88" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="2"/>DOESN&apos;T HAPPEN<br></br>FOR PEOPLE LIKE US</p>
+      <p begin="00:29:18.88" end="00:29:20.88" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>UNLESS YOU&apos;RE J. Lo<br></br>OR SOMETHING.</p>
+      <p begin="00:29:20.88" end="00:29:24.00" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>SHE SAID SHE WISHES YOU&apos;D BE<br></br>MORE REALISTIC, BUT...</p>
+      <p begin="00:29:24.00" end="00:29:26.21" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="1"/>(scoffs) I THINK<br></br>SHE&apos;S FULL OF CRAP.</p>
+      <p begin="00:29:28.50" end="00:29:31.58" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="11"/>(Gina) MMM. (giggles)</p>
+      <p begin="00:29:31.58" end="00:29:32.42" region="speaker"><metadata ccrow="14" cccol="26"/>OH.</p>
+      <p begin="00:29:32.42" end="00:29:34.58" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="20"/>(laughs) OW!</p>
+      <p begin="00:29:34.58" end="00:29:36.50" region="speaker" tts:textAlign="left"><metadata ccrow="12" cccol="0"/>HOLD THIS.</p>
+      <p begin="00:29:34.58" end="00:29:36.50" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="17"/>WHAT...</p>
+      <p begin="00:29:36.50" end="00:29:38.25" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>WHAT ARE YOU DOING?</p>
+      <p begin="00:29:38.25" end="00:29:39.46" region="speaker"><metadata ccrow="14" cccol="12"/>(grunts)</p>
+      <p begin="00:29:48.58" end="00:29:52.21" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="5"/>I JUST WANNA SAY<br></br>THAT THIS IS REALLY UNFAIR.</p>
+      <p begin="00:29:52.21" end="00:29:55.42" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>I LIVE TWO DOORS DOWN!<br></br>I CAN SEE YOU!</p>
+      <p begin="00:29:55.42" end="00:29:57.50" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="8"/>WHAT THE HELL YOU DOING?</p>
+      <p begin="00:29:57.50" end="00:30:00.38" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>UM... WHERE&apos;S WALTER?</p>
+      <p begin="00:30:00.38" end="00:30:02.17" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="22"/>IT&apos;S OVER.</p>
+      <p begin="00:30:02.17" end="00:30:05.79" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="12"/>LOOK, WALTER--<br></br>HE&apos;S SWEET AND EVERYTHING--</p>
+      <p begin="00:30:05.79" end="00:30:07.79" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="18"/>BUT I TOLD HIM<br></br>FROM THE START</p>
+      <p begin="00:30:07.79" end="00:30:09.79" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="14"/>I WASN&apos;T LOOKING<br></br>FOR ANYTHING SERIOUS.</p>
+      <p begin="00:30:09.79" end="00:30:11.42" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="15"/>AND HE SAID FINE,</p>
+      <p begin="00:30:11.42" end="00:30:14.33" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="11"/>HE COULD STILL GET ME<br></br>30% OFF A FLAT SCREEN.</p>
+      <p begin="00:30:14.33" end="00:30:16.46" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="2"/>YOU USED HIM<br></br>FOR HIS DISCOUNT?</p>
+      <p begin="00:30:16.46" end="00:30:18.54" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="17"/>OH, HE <span tts:fontStyle="italic" >OFFERED.</span></p>
+      <p begin="00:30:20.42" end="00:30:22.12" region="speaker" tts:textAlign="left"><metadata ccrow="12" cccol="0"/>(man) OH!</p>
+      <p begin="00:30:20.42" end="00:30:22.12" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="22"/>BITCH!</p>
+      <p begin="00:30:22.12" end="00:30:24.62" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="12"/>YOU BROKE MY PLASMA!</p>
+      <p begin="00:30:24.62" end="00:30:26.71" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="17"/>(woman squeals)</p>
+      <p begin="00:30:26.71" end="00:30:30.38" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>(woman baby talking)</p>
+      <p begin="00:30:30.38" end="00:30:33.54" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="13"/>WE SO THRILLED<br></br>TO HAVE YOU HERE, FABIA.</p>
+      <p begin="00:30:33.54" end="00:30:35.88" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>(Fabia baby talking)</p>
+      <p begin="00:30:35.88" end="00:30:37.38" region="speaker"><metadata ccrow="14" cccol="19"/>NOW, AHEM,</p>
+      <p begin="00:30:37.38" end="00:30:41.12" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="3"/>WHY DON&apos;T WE LET THE PICTURES<br></br>SPEAK FOR THEMSELVES, HMM?</p>
+      <p begin="00:30:41.12" end="00:30:44.83" region="speaker"><metadata ccrow="14" cccol="5"/><span tts:fontStyle="italic" >(dance music playing)</span></p>
+      <p begin="00:31:01.04" end="00:31:03.17" region="speaker"><metadata ccrow="14" cccol="11"/><span tts:fontStyle="italic" >SMETTILA!</span></p>
+      <p begin="00:31:04.42" end="00:31:07.12" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="10"/>THIS IS FREAKING JOKE,<br></br>RIGHT?</p>
+      <p begin="00:31:07.12" end="00:31:09.92" region="speaker"><metadata ccrow="14" cccol="4"/>UH, NO.</p>
+      <p begin="00:31:09.92" end="00:31:11.04" region="speaker"><metadata ccrow="14" cccol="18"/>YOU <span tts:fontStyle="italic" >STUPIDO.</span></p>
+      <p begin="00:31:11.04" end="00:31:14.04" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="12"/>ALL OF YOU, <span tts:fontStyle="italic" >STUPIDO!</span></p>
+      <p begin="00:31:14.04" end="00:31:15.58" region="speaker"><metadata ccrow="14" cccol="20"/>(grunts)</p>
+      <p begin="00:31:15.58" end="00:31:17.33" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="17"/>IDIOTS, IDIOTS!</p>
+      <p begin="00:31:17.33" end="00:31:20.33" region="speaker"><metadata ccrow="14" cccol="5"/>(muttering in Italian)</p>
+      <p begin="00:31:27.58" end="00:31:29.71" region="speaker"><metadata ccrow="14" cccol="3"/>WHAT--WHAT JUST HAPPENED?!</p>
+      <p begin="00:31:29.71" end="00:31:31.50" region="speaker"><metadata ccrow="14" cccol="22"/>WELL...</p>
+      <p begin="00:31:31.50" end="00:31:34.17" region="speaker"><metadata ccrow="13" cccol="8"/>FABIA&apos;S PROBABLY<br></br>STILL A LITTLE SENSITIVE</p>
+      <p begin="00:31:34.17" end="00:31:36.79" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>ABOUT THE ACCIDENT.</p>
+      <p begin="00:31:36.79" end="00:31:39.00" region="speaker"><metadata ccrow="14" cccol="11"/>ACCIDENT?</p>
+      <p begin="00:31:39.00" end="00:31:41.29" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>OH, YOU DIDN&apos;T KNOW.</p>
+      <p begin="00:31:41.29" end="00:31:42.67" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>ABOUT A MONTH AGO,</p>
+      <p begin="00:31:42.67" end="00:31:46.46" region="speaker"><metadata ccrow="13" cccol="5"/>SHE BACKED HER S.U.V.<br></br>INTO 12 PEOPLE OUTSIDE MARQUEE.</p>
+      <p begin="00:31:46.46" end="00:31:48.42" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="10"/>I WAS IN SAINT-TROPEZ.</p>
+      <p begin="00:31:48.42" end="00:31:49.71" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="18"/>I HAD NO IDEA.</p>
+      <p begin="00:31:49.71" end="00:31:52.46" region="speaker"><metadata ccrow="13" cccol="5"/>WHY--WHY DIDN&apos;T ANYONE<br></br>SAY ANYTHING?</p>
+      <p begin="00:31:52.46" end="00:31:55.67" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="4"/>DANIEL, IF I MAY, YOU DIDN&apos;T<br></br>INCLUDE ME IN THE CONCEPT.</p>
+      <p begin="00:31:55.67" end="00:31:58.67" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="9"/>AND WE ALL THOUGHT<br></br>YOU KNEW WHAT YOU WERE DOING.</p>
+      <p begin="00:32:01.46" end="00:32:04.96" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="11"/>FABIA&apos;S NOT JUST<br></br>TALKING ABOUT CANCELING...</p>
+      <p begin="00:32:04.96" end="00:32:06.58" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="10"/>THE &quot;MODE&quot; SUPPLEMENT.</p>
+      <p begin="00:32:06.58" end="00:32:09.58" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="12"/>SHE&apos;S CONSIDERING...<br></br>PULLING ADVERTISING</p>
+      <p begin="00:32:09.58" end="00:32:12.50" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="11"/>FROM EVERY SINGLE ONE<br></br>OF MY MAGAZINES.</p>
+      <p begin="00:32:12.50" end="00:32:15.50" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="3"/>IS IT TRUE YOU WORKED ON THIS<br></br>ON YOUR OWN,</p>
+      <p begin="00:32:15.50" end="00:32:17.50" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="7"/>DIDN&apos;T CONSULT WILHELMINA<br></br>OR ANYONE ELSE?</p>
+      <p begin="00:32:17.50" end="00:32:18.75" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>LOOK, I CAN EXPLAIN.</p>
+      <p begin="00:32:18.75" end="00:32:20.75" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="4"/>I HAD--I HAD<br></br>A VERY STRONG FEELING</p>
+      <p begin="00:32:20.75" end="00:32:22.75" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>SHE WAS TRYING<br></br>TO SABOTAGE ME.</p>
+      <p begin="00:32:22.75" end="00:32:26.58" region="speaker"><metadata ccrow="13" cccol="9"/>THE ONLY PERSON<br></br>WHO SABOTAGED YOU WAS YOURSELF.</p>
+      <p begin="00:32:26.58" end="00:32:29.75" region="speaker"><metadata ccrow="11" cccol="0"/>SORRY I LET YOU DOWN.</p>
+      <p begin="00:32:26.58" end="00:32:29.75" region="speaker"><metadata ccrow="13" cccol="18"/>WELL,<br></br>I&apos;M SORRY I KEEP HOPING</p>
+      <p begin="00:32:29.75" end="00:32:32.54" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="13"/>YOU&apos;LL BE SOMETHING<br></br>YOU&apos;RE CLEARLY NOT.</p>
+      <p begin="00:32:32.54" end="00:32:34.58" region="speaker"><metadata ccrow="11" cccol="18"/>(grunts)<br></br>MY LEG IS CRAMPING.</p>
+      <p begin="00:32:32.54" end="00:32:34.58" region="speaker"><metadata ccrow="14" cccol="0"/>LOOK, I CAN FIX THIS.</p>
+      <p begin="00:32:34.58" end="00:32:36.58" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>I&apos;LL JUST PRESENT HER<br></br>WITH A WHOLE NEW IDEA.</p>
+      <p begin="00:32:36.58" end="00:32:39.29" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="12"/>WE JUST CLOSED BOOK.<br></br>IT&apos;S TOO LATE.</p>
+      <p begin="00:32:39.29" end="00:32:42.00" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>TOMORROW MORNING. <span tts:fontStyle="italic" >PLEASE.</span></p>
+      <p begin="00:32:42.00" end="00:32:43.62" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>GIVE ME ANOTHER CHANCE.</p>
+      <p begin="00:32:43.62" end="00:32:45.46" region="speaker"><metadata ccrow="13" cccol="3"/>(Marc) Daniel called again<br></br>looking for you.</p>
+      <p begin="00:32:45.46" end="00:32:46.92" region="speaker"><metadata ccrow="14" cccol="12"/>(sighs)</p>
+      <p begin="00:32:46.92" end="00:32:50.54" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="6"/>WHAT PART OF &quot;UNAVAILABLE&quot;<br></br>DOES HE NOT UNDERSTAND?</p>
+      <p begin="00:32:50.54" end="00:32:52.54" region="speaker"><metadata ccrow="14" cccol="7"/>I&apos;ll let him know.</p>
+      <p begin="00:32:55.00" end="00:32:57.58" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="13"/>HE REALLY SHOULD&apos;VE<br></br>COME TO ME EARLIER.</p>
+      <p begin="00:32:57.58" end="00:33:00.38" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>(chuckles) IT WOULDN&apos;T HAVE<br></br>MADE ANY DIFFERENCE NOW,</p>
+      <p begin="00:33:00.38" end="00:33:01.75" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>WOULD IT?</p>
+      <p begin="00:33:01.75" end="00:33:04.67" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="12"/>NOT REALLY. (laughs)</p>
+      <p begin="00:33:04.67" end="00:33:06.04" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="20"/>TO TEAMWORK.</p>
+      <p begin="00:33:06.04" end="00:33:07.54" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>TO REVENGE.</p>
+      <p begin="00:33:07.54" end="00:33:08.71" region="speaker"><metadata ccrow="14" cccol="25"/>AH.</p>
+      <p begin="00:33:51.96" end="00:33:53.58" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/><span tts:fontStyle="italic" >(speaking Spanish)</span></p>
+      <p begin="00:33:53.58" end="00:33:56.75" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="13"/><span tts:fontStyle="italic" >(speaking Spanish)</span></p>
+      <p begin="00:34:01.12" end="00:34:03.21" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="9"/>(Betty)<br></br>HE HAS A HEART CONDITION.</p>
+      <p begin="00:34:03.21" end="00:34:05.75" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="12"/>YES,<br></br>HE--HE NEEDS HIS MEDICATION.</p>
+      <p begin="00:34:05.75" end="00:34:07.75" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>BUT YOU CAN&apos;T JUST<br></br>COVER THE PILLS</p>
+      <p begin="00:34:07.75" end="00:34:11.50" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="8"/>AND THEN<br></br>RANDOMLY DECIDE TO STOP.</p>
+      <p begin="00:34:11.50" end="00:34:13.50" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="4"/>BUT IT&apos;S--IT&apos;S<br></br>A REAL PERSON&apos;S HEALTH,</p>
+      <p begin="00:34:13.50" end="00:34:15.04" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>IT&apos;S NOT A CASE NUMBER.</p>
+      <p begin="00:34:15.04" end="00:34:18.33" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="13"/>GIVE ME THE PHONE.<br></br>I&apos;LL LET &apos;EM HAVE IT.</p>
+      <p begin="00:34:18.33" end="00:34:20.33" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>NO. NO, I DON&apos;T WANNA<br></br>HOLD AGAIN.</p>
+      <p begin="00:34:20.33" end="00:34:22.17" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>NOT AGAIN.</p>
+      <p begin="00:34:22.17" end="00:34:24.58" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>NO, JUST WAIT--</p>
+      <p begin="00:34:24.58" end="00:34:25.96" region="speaker"><metadata ccrow="14" cccol="4"/>(sighs)</p>
+      <p begin="00:34:29.04" end="00:34:31.50" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="9"/>IT&apos;S FINE. WE&apos;LL JUST--<br></br>WE&apos;LL GET &apos;EM TOMORROW.</p>
+      <p begin="00:34:31.50" end="00:34:32.50" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="22"/>IT&apos;S FINE.</p>
+      <p begin="00:34:32.50" end="00:34:33.88" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>THANK YOU, <span tts:fontStyle="italic" >MI AMOR.</span></p>
+      <p begin="00:34:33.88" end="00:34:35.88" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>YOU&apos;RE SO MUCH BETTER<br></br>AT DEALING WITH</p>
+      <p begin="00:34:35.88" end="00:34:38.88" region="speaker"><metadata ccrow="11" cccol="0"/>THIS BUREAUCRATIC STUFF<br></br>THAN I AM.</p>
+      <p begin="00:34:35.88" end="00:34:38.88" region="speaker"><metadata ccrow="14" cccol="6"/>NO, YOU KNOW I DON&apos;T MIND.</p>
+      <p begin="00:34:38.88" end="00:34:40.08" region="speaker"><metadata ccrow="14" cccol="3"/>I KNOW.</p>
+      <p begin="00:34:40.08" end="00:34:42.08" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>YOU&apos;RE ALWAYS SO GOOD<br></br>TO ME.</p>
+      <p begin="00:34:42.08" end="00:34:45.54" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>SO STRONG, DETERMINED,<br></br>OPTIMISTIC...</p>
+      <p begin="00:34:45.54" end="00:34:47.54" region="speaker"><metadata ccrow="14" cccol="3"/>(chuckles)</p>
+      <p begin="00:34:47.54" end="00:34:49.58" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>JUST LIKE YOUR MOTHER WAS.</p>
+      <p begin="00:34:51.42" end="00:34:54.12" region="speaker"><metadata ccrow="14" cccol="8"/>(knock on door)</p>
+      <p begin="00:34:57.12" end="00:35:00.42" region="speaker"><metadata ccrow="11" cccol="1"/>WHY HAVEN&apos;T YOU<br></br>RETURNED MY CALLS?</p>
+      <p begin="00:34:57.12" end="00:35:00.42" region="speaker"><metadata ccrow="14" cccol="17"/>I&apos;VE BEEN BUSY.</p>
+      <p begin="00:35:00.42" end="00:35:03.42" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>BETTY, I NEED TO TALK TO YOU.<br></br>I MADE A TERRIBLE MISTAKE.</p>
+      <p begin="00:35:03.42" end="00:35:06.54" region="speaker"><metadata ccrow="13" cccol="3"/>WAIT, DID YOU REALIZE THIS<br></br>BEFORE OR AFTER GINA DUMPED YOU?</p>
+      <p begin="00:35:06.54" end="00:35:09.62" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="3"/>WHAT? NO, NO,<br></br>I BROKE UP WITH HER.</p>
+      <p begin="00:35:09.62" end="00:35:12.96" region="speaker"><metadata ccrow="13" cccol="6"/>BETTY, IT WAS WRONG,<br></br>AND I WANNA MAKE THIS UP TO YOU.</p>
+      <p begin="00:35:12.96" end="00:35:14.62" region="speaker"><metadata ccrow="12" cccol="3"/>I--</p>
+      <p begin="00:35:12.96" end="00:35:14.62" region="speaker"><metadata ccrow="14" cccol="8"/>(knock on door)</p>
+      <p begin="00:35:14.62" end="00:35:16.75" region="speaker"><metadata ccrow="14" cccol="17"/>BETTY.</p>
+      <p begin="00:35:16.75" end="00:35:19.75" region="speaker"><metadata ccrow="12" cccol="0"/>ARE YOU DATING SOMEONE?</p>
+      <p begin="00:35:16.75" end="00:35:19.75" region="speaker"><metadata ccrow="14" cccol="14"/>WALTER, PLEASE GO!</p>
+      <p begin="00:35:19.75" end="00:35:21.54" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>DATING <span tts:fontStyle="italic" >THIS GUY?</span></p>
+      <p begin="00:35:21.54" end="00:35:23.54" region="speaker"><metadata ccrow="13" cccol="5"/>LOOK, YOU NEED TO GO.<br></br>PLEASE. YOU NEED TO GO.</p>
+      <p begin="00:35:23.54" end="00:35:25.38" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="14"/>BUT, BETTY, I-I...</p>
+      <p begin="00:35:26.58" end="00:35:29.12" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="8"/>WHAT ARE YOU DOING HERE?</p>
+      <p begin="00:35:29.12" end="00:35:30.50" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>I WANNA TALK.</p>
+      <p begin="00:35:33.58" end="00:35:36.29" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>IT&apos;S A NICE PLACE.</p>
+      <p begin="00:35:36.29" end="00:35:40.00" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="5"/>YEAH, WE&apos;RE JUST IN BETWEEN<br></br>INTERIOR DESIGNERS.</p>
+      <p begin="00:35:40.00" end="00:35:41.00" region="speaker"><metadata ccrow="14" cccol="4"/>REALLY?</p>
+      <p begin="00:35:41.00" end="00:35:42.00" region="speaker"><metadata ccrow="14" cccol="22"/>NO.</p>
+      <p begin="00:35:42.00" end="00:35:44.21" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>OH, RIGHT. IT&apos;S A JOKE.</p>
+      <p begin="00:35:46.46" end="00:35:49.42" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>BETTY, I AM SO SORRY.</p>
+      <p begin="00:35:49.42" end="00:35:53.00" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="2"/>YOU DIDN&apos;T DESERVE<br></br>WHAT I PUT YOU THROUGH.</p>
+      <p begin="00:35:53.00" end="00:35:56.46" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>I-I LISTENED TO ALL THE WRONG<br></br>PEOPLE ABOUT A LOT OF THINGS,</p>
+      <p begin="00:35:56.46" end="00:36:01.00" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>AND... I HAVE NO ONE<br></br>TO BLAME BUT MYSELF.</p>
+      <p begin="00:36:02.92" end="00:36:06.04" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="8"/>WELL, I APPRECIATE THAT,<br></br>DANIEL.</p>
+      <p begin="00:36:06.04" end="00:36:07.58" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="17"/>BUT YOU&apos;RE<br></br>GOING TO LEAVE HERE,</p>
+      <p begin="00:36:07.58" end="00:36:09.79" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="14"/>AND YOU&apos;RE GOING<br></br>TO TAKE YOUR TOWN CAR</p>
+      <p begin="00:36:09.79" end="00:36:11.25" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="9"/>BACK TO YOUR SOHO LOFT,</p>
+      <p begin="00:36:11.25" end="00:36:12.92" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="18"/>AND I&apos;M STILL<br></br>GONNA BE HERE--</p>
+      <p begin="00:36:12.92" end="00:36:14.54" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="21"/>OUT OF WORK</p>
+      <p begin="00:36:14.54" end="00:36:17.21" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="5"/>AND DEALING WITH PROBLEMS<br></br>THAT YOU&apos;LL NEVER UNDERSTAND.</p>
+      <p begin="00:36:17.21" end="00:36:18.58" region="speaker"><metadata ccrow="14" cccol="4"/>TRY ME.</p>
+      <p begin="00:36:18.58" end="00:36:20.58" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="4"/>BETTY, COME ON,<br></br>WE&apos;VE ALL GOT PROBLEMS.</p>
+      <p begin="00:36:20.58" end="00:36:22.62" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="17"/>OH, AND WHAT<br></br><span tts:fontStyle="italic" >ARE </span>YOURS, DANIEL,</p>
+      <p begin="00:36:22.62" end="00:36:24.62" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="15"/>WHAT RESTAURANT<br></br>YOU&apos;RE GONNA EAT AT,</p>
+      <p begin="00:36:24.62" end="00:36:27.67" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="15"/>WHICH MODEL<br></br>YOU&apos;RE GONNA SLEEP WITH?</p>
+      <p begin="00:36:27.67" end="00:36:29.29" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="12"/>TRY SPENDING THE DAY</p>
+      <p begin="00:36:29.29" end="00:36:31.29" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="14"/>ON THE PHONE<br></br>WITH SOME CRAPPY H.M.O.,</p>
+      <p begin="00:36:31.29" end="00:36:33.29" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="9"/>GETTING THEM TO COVER<br></br>YOUR DAD&apos;S PRESCRIPTIONS.</p>
+      <p begin="00:36:33.29" end="00:36:36.17" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="16"/>OR TRY LINING UP<br></br>A JOB--ANY JOB--</p>
+      <p begin="00:36:36.17" end="00:36:39.42" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="9"/>&apos;CAUSE YOU HAVE TO HELP<br></br>PAY THE RENT NEXT MONTH.</p>
+      <p begin="00:36:39.42" end="00:36:40.79" region="speaker"><metadata ccrow="14" cccol="6"/>LOOK...</p>
+      <p begin="00:36:40.79" end="00:36:43.71" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>I LOST A BROTHER<br></br>A WHILE BACK.</p>
+      <p begin="00:36:43.71" end="00:36:45.71" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>HE WAS THE GOOD ONE<br></br>IN OUR FAMILY,</p>
+      <p begin="00:36:45.71" end="00:36:48.29" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>AND I&apos;VE NEVER QUITE<br></br>MEASURED UP.</p>
+      <p begin="00:36:48.29" end="00:36:50.21" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>BUT I AM TRYING.</p>
+      <p begin="00:36:50.21" end="00:36:52.46" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>BETTY, I--</p>
+      <p begin="00:36:52.46" end="00:36:55.08" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>I COULD NEVER COMPARE<br></br>MY PROBLEMS TO YOURS,</p>
+      <p begin="00:36:55.08" end="00:36:57.29" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>BUT THEY&apos;RE MINE.</p>
+      <p begin="00:36:57.29" end="00:36:59.62" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>NOTHING&apos;S EVER EASY.</p>
+      <p begin="00:37:03.83" end="00:37:07.29" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>I SAW THE LAYOUT YOU MADE<br></br>FOR FABIA.</p>
+      <p begin="00:37:07.29" end="00:37:09.46" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="24"/>YOU DID?</p>
+      <p begin="00:37:09.46" end="00:37:13.38" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>I THOUGHT IT WAS VERY SMART<br></br>AND BEAUTIFUL.</p>
+      <p begin="00:37:13.38" end="00:37:16.29" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="16"/>WELL, THANK YOU.</p>
+      <p begin="00:37:16.29" end="00:37:18.54" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>I WANT TO TAKE YOUR IDEAS<br></br>TO FABIA,</p>
+      <p begin="00:37:18.54" end="00:37:21.62" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>GIVING YOU CREDIT, OF COURSE.</p>
+      <p begin="00:37:21.62" end="00:37:24.08" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>AND I REALLY WANT YOU<br></br>TO COME BACK,</p>
+      <p begin="00:37:24.08" end="00:37:25.46" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>BE MY ASSISTANT.</p>
+      <p begin="00:37:25.46" end="00:37:28.50" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="6"/>I PROMISE YOU<br></br>THINGS WILL BE DIFFERENT.</p>
+      <p begin="00:37:28.50" end="00:37:31.62" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="18"/>I--DANIEL, I--</p>
+      <p begin="00:37:31.62" end="00:37:34.42" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="11"/>I MEAN, I-I REALLY<br></br>HAVE TO THINK ABOUT THAT.</p>
+      <p begin="00:37:34.42" end="00:37:37.12" region="speaker"><metadata ccrow="14" cccol="6"/>OH.</p>
+      <p begin="00:37:37.12" end="00:37:40.12" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>WELL... YOU HAVE TONIGHT,</p>
+      <p begin="00:37:40.12" end="00:37:44.08" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>OTHERWISE, I&apos;LL PROBABLY<br></br>BE OUT OF A JOB AS WELL.</p>
+      <p begin="00:37:50.54" end="00:37:52.50" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>(clears throat)</p>
+      <p begin="00:38:02.58" end="00:38:05.04" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>DID YOU HEAR THAT?</p>
+      <p begin="00:38:05.04" end="00:38:07.21" region="speaker"><metadata ccrow="14" cccol="23"/>MM-HMM.</p>
+      <p begin="00:38:07.21" end="00:38:09.42" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="21"/>EVERY WORD.</p>
+      <p begin="00:38:09.42" end="00:38:20.25" region="speaker"><metadata ccrow="0" cccol="0"/></p>
+      <p begin="00:38:20.25" end="00:38:22.04" region="speaker"><metadata ccrow="0" cccol="0"/></p>
+      <p begin="00:38:22.04" end="00:38:24.25" region="speaker"><metadata ccrow="14" cccol="7"/>SO...</p>
+      <p begin="00:38:24.25" end="00:38:25.62" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>WHERE THE HELL IS HE?</p>
+      <p begin="00:38:25.62" end="00:38:28.54" region="speaker"><metadata ccrow="14" cccol="7"/>HE SAID 10:00 A.M.</p>
+      <p begin="00:38:28.54" end="00:38:30.67" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="18"/>WELL, FABIA...</p>
+      <p begin="00:38:30.67" end="00:38:34.38" region="speaker"><metadata ccrow="13" cccol="11"/>ON BEHALF<br></br>OF THE ENTIRE MAGAZINE,</p>
+      <p begin="00:38:34.38" end="00:38:36.58" region="speaker"><metadata ccrow="14" cccol="10"/><span tts:fontStyle="italic" >CI PERDONI.</span></p>
+      <p begin="00:38:36.58" end="00:38:39.42" region="speaker"><metadata ccrow="13" cccol="8"/>THIS WHOLE THING<br></br>HAS BEEN UNACCEPTABLE.</p>
+      <p begin="00:38:39.42" end="00:38:40.83" region="speaker"><metadata ccrow="14" cccol="13"/>MARC.</p>
+      <p begin="00:38:40.83" end="00:38:43.46" region="speaker"><metadata ccrow="13" cccol="8"/>NOW THAT I HAVE<br></br>A MOMENT OF YOUR TIME,</p>
+      <p begin="00:38:43.46" end="00:38:45.75" region="speaker"><metadata ccrow="13" cccol="6"/>I&apos;D LIKE TO SHOW YOU<br></br>SOME OF MY IDEAS.</p>
+      <p begin="00:38:45.75" end="00:38:47.38" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="6"/>(Daniel) SORRY WE&apos;RE LATE.</p>
+      <p begin="00:38:49.42" end="00:38:52.42" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="3"/>(Daniel) THERE WAS OBVIOUSLY<br></br>NO TIME FOR A NEW PHOTO SHOOT,</p>
+      <p begin="00:38:52.42" end="00:38:54.54" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="13"/>SO, UH, WHAT WE&apos;RE<br></br>GONNA BE SHOWING YOU</p>
+      <p begin="00:38:54.54" end="00:38:56.25" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="11"/>IS JUST A ROUGH IDEA.</p>
+      <p begin="00:38:56.25" end="00:38:57.33" region="speaker"><metadata ccrow="14" cccol="5"/>OH!</p>
+      <p begin="00:38:57.33" end="00:38:58.71" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>UH, WAIT.</p>
+      <p begin="00:38:58.71" end="00:39:02.50" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="7"/>NO, THIS IS--<br></br>THIS IS NOT THE RIGHT FILE.</p>
+      <p begin="00:39:02.50" end="00:39:04.58" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>UM, JUST ONE SEC--<br></br>ONE SECOND.</p>
+      <p begin="00:39:04.58" end="00:39:06.92" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>THIS IS IT.</p>
+      <p begin="00:39:06.92" end="00:39:10.00" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="10"/>UM... AHEM... IN ORDER<br></br>TO SHOW THE SOFTER SIDE</p>
+      <p begin="00:39:10.00" end="00:39:12.25" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="13"/>OF FABIA COSMETICS,</p>
+      <p begin="00:39:12.25" end="00:39:16.00" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="2"/>WE&apos;RE GOING TO USE THE CONCEPT<br></br>OF MOTHERS AND DAUGHTERS,</p>
+      <p begin="00:39:16.00" end="00:39:20.04" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="10"/>FOCUSING ON THE SMALL,<br></br>SPECIAL MOMENTS THAT--</p>
+      <p begin="00:39:20.04" end="00:39:21.46" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="10"/>THAT ARE USUALLY TAKEN<br></br>FOR GRANTED,</p>
+      <p begin="00:39:21.46" end="00:39:25.12" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="11"/>THE THEME BEING,<br></br>&quot;IT&apos;S NOT THE BIG EVENTS...</p>
+      <p begin="00:39:25.12" end="00:39:27.88" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="9"/>BUT THE LITTLE MOMENTS&quot;<br></br>THAT MATTER.</p>
+      <p begin="00:39:27.88" end="00:39:33.08" region="speaker"><metadata ccrow="13" cccol="5"/>I JUST HAD A DAUGHTER.<br></br>I DO NONE OF THOSE THINGS...</p>
+      <p begin="00:39:33.08" end="00:39:34.58" region="speaker"><metadata ccrow="14" cccol="5"/>BUT I CAN UNDERSTAND.</p>
+      <p begin="00:39:34.58" end="00:39:36.50" region="speaker"><metadata ccrow="14" cccol="12"/>(sniffs)</p>
+      <p begin="00:39:36.50" end="00:39:39.71" region="speaker"><metadata ccrow="13" cccol="2"/>WHAT MAKES YOU THINK THIS IS<br></br>GOING TO APPEAL TO MY CUSTOMERS?</p>
+      <p begin="00:39:39.71" end="00:39:41.62" region="speaker"><metadata ccrow="14" cccol="19"/>(whines)</p>
+      <p begin="00:39:45.25" end="00:39:47.25" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>UM... WELL, IF--<br></br>IF I MAY,</p>
+      <p begin="00:39:47.25" end="00:39:49.29" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="5"/>I DO HAVE<br></br>THE STATISTICS HERE.</p>
+      <p begin="00:39:49.29" end="00:39:50.62" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>UM, THOUGH ONE MIGHT ASSUME</p>
+      <p begin="00:39:50.62" end="00:39:52.62" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>THAT YOUR DEMOGRAPHIC<br></br>IS VERY YOUNG,</p>
+      <p begin="00:39:52.62" end="00:39:54.62" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="1"/>IN FACT, THERE&apos;S BEEN<br></br>TREMENDOUS BRAND LOYALTY</p>
+      <p begin="00:39:54.62" end="00:39:56.46" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>SINCE YOU&apos;VE LAUNCHED,</p>
+      <p begin="00:39:56.46" end="00:39:58.92" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>WHICH MEANS THAT THE PEOPLE<br></br>WHO WERE TEENAGERS</p>
+      <p begin="00:39:58.92" end="00:40:00.92" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>WHEN THEY BEGAN USING<br></br>YOUR COSMETICS,</p>
+      <p begin="00:40:00.92" end="00:40:03.33" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>WELL, NOW, LIKE YOU,<br></br>THEY ARE...</p>
+      <p begin="00:40:03.33" end="00:40:05.67" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>BEGINNING TO SETTLE DOWN<br></br>AND HAVE CHILDREN--</p>
+      <p begin="00:40:05.67" end="00:40:08.75" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>UM, 58% TO BE EXACT.</p>
+      <p begin="00:40:10.33" end="00:40:12.33" region="speaker"><metadata ccrow="13" cccol="5"/>AND YOU COULD DO THIS<br></br>IN TIME?</p>
+      <p begin="00:40:12.33" end="00:40:13.71" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="13"/>(Daniel) OF COURSE.</p>
+      <p begin="00:40:13.71" end="00:40:16.67" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="9"/>UH, DID YOU WANT TO<br></br>APPROVE THE, UH, UH, MODELS</p>
+      <p begin="00:40:16.67" end="00:40:18.58" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="10"/>AND IMAGES BEFOREHAND?</p>
+      <p begin="00:40:18.58" end="00:40:21.08" region="speaker"><metadata ccrow="13" cccol="6"/>NAH. JUST MAKE SURE<br></br>IT&apos;S NOT TOO SAPPY.</p>
+      <p begin="00:40:21.08" end="00:40:23.54" region="speaker"><metadata ccrow="13" cccol="3"/>DO A PICTURE WHERE THEY&apos;RE<br></br>PULLING THEIR HAIR</p>
+      <p begin="00:40:23.54" end="00:40:25.33" region="speaker"><metadata ccrow="14" cccol="5"/>OR BITING EACH OTHER.</p>
+      <p begin="00:40:25.33" end="00:40:27.42" region="speaker"><metadata ccrow="14" cccol="8"/>SO THAT&apos;S NICE.</p>
+      <p begin="00:40:27.42" end="00:40:29.67" region="speaker"><metadata ccrow="14" cccol="11"/>NOW I GO.</p>
+      <p begin="00:40:35.25" end="00:40:36.62" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>GOOD WORK.</p>
+      <p begin="00:40:36.62" end="00:40:39.08" region="speaker"><metadata ccrow="13" cccol="10"/>OH, THE IDEA<br></br>WAS ACTUALLY--</p>
+      <p begin="00:40:39.08" end="00:40:41.83" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="18"/>HIS BEST ONE,<br></br>DON&apos;T YOU THINK?</p>
+      <p begin="00:40:44.25" end="00:40:45.46" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>INDEED.</p>
+      <p begin="00:40:45.46" end="00:40:47.71" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>WELCOME BACK, BOSS.</p>
+      <p begin="00:40:47.71" end="00:40:49.79" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>MARC.</p>
+      <p begin="00:41:02.79" end="00:41:06.12" region="speaker"><metadata ccrow="13" cccol="12"/>(woman)<br></br>I&apos;M VERY UNHAPPY.</p>
+      <p begin="00:41:06.12" end="00:41:07.83" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>IT&apos;S A SETBACK.</p>
+      <p begin="00:41:07.83" end="00:41:09.96" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="2"/>BUT IT&apos;S JUST<br></br>A MATTER OF TIME.</p>
+      <p begin="00:41:09.96" end="00:41:12.04" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>ONCE HE&apos;S OUT OF THE PICTURE,</p>
+      <p begin="00:41:12.04" end="00:41:14.42" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>THE COMPANY WILL BE OURS<br></br>FOR THE TAKING.</p>
+      <p begin="00:41:14.42" end="00:41:17.42" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="11"/>CONSIDERING THE WAY<br></br>EVERYTHING&apos;S PLAYED OUT,</p>
+      <p begin="00:41:17.42" end="00:41:19.79" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="12"/>IT SEEMS TO ME<br></br>THAT YOU SHOULD KEEP AN EYE</p>
+      <p begin="00:41:19.79" end="00:41:22.62" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="4"/>ON THAT DAMN UGLY ASSISTANT.</p>
+      <p begin="00:41:22.62" end="00:41:25.17" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="16"/>WHAT&apos;S HER NAME?</p>
+      <p begin="00:41:25.17" end="00:41:27.75" region="speaker"><metadata ccrow="12" cccol="13"/>BETTY.</p>
+      <p begin="00:41:25.17" end="00:41:27.75" region="speaker"><metadata ccrow="14" cccol="21"/>BETTY.</p>
+      <p begin="00:41:27.75" end="00:41:29.12" region="speaker"><metadata ccrow="14" cccol="3"/>BETTY.</p>
+      <p begin="00:41:29.12" end="00:41:30.54" region="speaker"><metadata ccrow="14" cccol="13"/>BETTY.</p>
+      <p begin="00:41:30.54" end="00:41:32.54" region="speaker"><metadata ccrow="14" cccol="9"/>BETTY! BETTY.</p>
+      <p begin="00:41:32.54" end="00:41:35.46" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="5"/>OH, CHRISTINA,<br></br>THANK YOU AGAIN, SO MUCH.</p>
+      <p begin="00:41:35.46" end="00:41:36.83" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="12"/>SHH. NO, NO, NO. GO.</p>
+      <p begin="00:41:36.83" end="00:41:38.96" region="speaker"><metadata ccrow="14" cccol="24"/><span tts:fontStyle="italic" >GO.</span></p>
+      <p begin="00:41:42.25" end="00:41:45.25" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>YOU SHOULD&apos;VE LET ME TELL HIM<br></br>IT WAS YOUR IDEA.</p>
+      <p begin="00:41:45.25" end="00:41:47.92" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="16"/>DON&apos;T WORRY.<br></br>I WILL THE NEXT TIME.</p>
+      <p begin="00:41:47.92" end="00:41:49.54" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>(laughs) THANKS.</p>
+      <p begin="00:41:49.54" end="00:41:51.17" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="17"/>YOU&apos;RE WELCOME.</p>
+      <p begin="00:41:51.17" end="00:41:53.17" region="speaker" tts:textAlign="right"><metadata ccrow="13" cccol="4"/>SO I&apos;VE CONFIRMED YOUR LUNCH<br></br>FOR TOMORROW</p>
+      <p begin="00:41:53.17" end="00:41:55.46" region="speaker"><metadata ccrow="13" cccol="8"/>AND YOUR 3:15 WITH<br></br>THE GRAPHICS DEPARTMENT IS SET.</p>
+      <p begin="00:41:55.46" end="00:41:57.46" region="speaker" tts:textAlign="right"><metadata ccrow="11" cccol="14"/>THE FEATURE EDITOR<br></br>WOULD LIKE--</p>
+      <p begin="00:41:55.46" end="00:41:57.46" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="3"/>BETTY...</p>
+      <p begin="00:41:57.46" end="00:42:00.50" region="speaker" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>TOMORROW MORNING.<br></br>IT&apos;S OKAY.</p>
+      <p begin="00:42:02.04" end="00:42:03.50" region="speaker" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>(clears throat) GOOD NIGHT.</p>
+      <p begin="00:42:03.50" end="00:42:08.21" region="speaker"><metadata ccrow="13" cccol="8"/>(K.T. Tunstall&apos;s<br></br>&quot;Suddenly I See&quot; playing)</p>
+      <p begin="00:42:08.21" end="00:42:10.21" region="speaker"><metadata ccrow="13" cccol="8"/>♪ WELL, HER FACE<br></br>IS A MAP OF THE WORLD ♪</p>
+      <p begin="00:42:10.21" end="00:42:13.08" region="speaker"><metadata ccrow="14" cccol="3"/>♪ IS A MAP OF THE WORLD ♪</p>
+      <p begin="00:42:13.08" end="00:42:14.88" region="speaker"><metadata ccrow="13" cccol="9"/>♪ YOU CAN SEE<br></br>SHE&apos;S A BEAUTIFUL GIRL ♪</p>
+      <p begin="00:42:14.88" end="00:42:16.88" region="speaker"><metadata ccrow="14" cccol="3"/>♪ SHE&apos;S A BEAUTIFUL GIRL ♪</p>
+      <p begin="00:42:16.88" end="00:42:18.71" region="speaker"><metadata ccrow="14" cccol="7"/>♪ SUDDENLY I SEE ♪</p>
+      <p begin="00:42:18.71" end="00:42:20.12" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="14"/>♪ SUDDENLY I SEE ♪</p>
+      <p begin="00:42:20.12" end="00:42:22.08" region="speaker"><metadata ccrow="14" cccol="2"/>♪ THIS IS WHAT I WANNA BE ♪</p>
+      <p begin="00:42:22.08" end="00:42:23.46" region="speaker"><metadata ccrow="14" cccol="7"/>♪ SUDDENLY I SEE ♪</p>
+      <p begin="00:42:23.46" end="00:42:25.08" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="14"/>♪ SUDDENLY I SEE ♪</p>
+      <p begin="00:42:25.08" end="00:42:27.08" region="speaker"><metadata ccrow="13" cccol="9"/>♪ WHY THE HELL<br></br>IT MEANS SO MUCH TO ME ♪</p>
+      <p begin="00:42:27.08" end="00:42:29.42" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="14"/>♪ SUDDENLY I SEE ♪</p>
+      <p begin="00:42:29.42" end="00:42:31.71" region="speaker"><metadata ccrow="14" cccol="2"/>♪ THIS IS WHAT I WANNA BE ♪</p>
+      <p begin="00:42:31.71" end="00:42:33.33" region="speaker"><metadata ccrow="14" cccol="7"/>♪ SUDDENLY I SEE ♪</p>
+      <p begin="00:42:33.33" end="00:42:34.71" region="speaker" tts:textAlign="right"><metadata ccrow="14" cccol="14"/>♪ SUDDENLY I SEE ♪</p>
+      <p begin="00:42:34.71" end="00:42:39.46" region="speaker"><metadata ccrow="13" cccol="9"/>♪ WHY THE HELL<br></br>IT MEANS SO MUCH TO ME ♪</p>
+      <p begin="00:42:39.46" end="00:42:42.46" region="speaker"><metadata ccrow="0" cccol="0"/></p>
+    </div>
+  </body>
+</tt>
