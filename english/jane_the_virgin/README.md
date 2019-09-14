@@ -9,3 +9,7 @@ Includes:
 ### Source
 
 Transcribed by hand by [@lorenanicole](https://github.com/lorenanicole)
+
+### Last Updated
+
+Sept 14 2019
